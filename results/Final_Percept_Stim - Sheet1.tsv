@@ -1,0 +1,61 @@
+id	condition	verb	text_1	text_2	text_3	response_1	audio_1	audio_2		response_2
+1	NC	aimer	Ce restaurant est trop nul!	personne n'aime rien	Tout le monde aime quelque chose ici.	F	109_01.wav	109_09.wav	speaker 1	audio_1
+2	NC	boire	Dans notre famille on est tous allergique à l'alcool :	personne ne boit rien dans les soirées.	Ils ne boivent pas d’alcool.	V	109_02.wav	109_10.wav		audio_1
+3	NC	dire	Tous les profs s’ennuient en conseil de classe :	personne ne dit rien pendant les réunions.	Ils restent tous silencieux.	V	110_03.wav	110_11.wav		audio_1
+4	NC	faire	Ici au mois d'août, Il fait vraiment trop chaud pour travailler :	personne ne fait rien	Ils ont tous trop chaud pour faire quelque chose.	V	101_04.wav	101_12.wav		audio_1
+5	NC	lire	Les profs se plaignent tous que les élèves ne travaillent pas pendant les cours d’été	Personne ne lit rien	Les élèves lisent tous quelque chose.	F	109_05.wav	109_13.wav		audio_1
+6	NC	manger	Pendant le ramadan, on doit jeuner toute la journée.	personne ne mange rien	Les gens ne mangent pas ici.	V	101_06.wav	101_14.wav		audio_1
+7	NC	voir	On vient de couper l’électricité et il fait tout noir ici:	personne ne voit rien	Ils voient tous quelque chose.	F	115_08.wav	115_16.wav	speaker 1	audio_1
+8	NC	aimer	Ce restaurant est trop nul!	personne n'aime rien	Tout le monde aime quelque chose ici.	F	115_01.wav	115_09.wav	speaker 2	audio_1
+9	NC	boire	Dans notre famille on est tous allergique à l'alcool :	personne ne boit rien dans les soirées.	Ils ne boivent pas d’alcool.	V	115_02.wav	115_10.wav		audio_1
+10	NC	dire	Tous les profs s’ennuient en conseil de classe :	personne ne dit rien pendant les réunions.	Ils restent tous silencieux.	V	121_03.wav	121_11.wav		audio_1
+11	NC	faire	Ici au mois d'août, Il fait vraiment trop chaud pour travailler :	personne ne fait rien	Ils ont tous trop chaud pour faire quelque chose.	V	107_04.wav	107_12.wav		audio_1
+12	NC	lire	Les profs se plaignent tous que les élèves ne travaillent pas pendant les cours d’été	Personne ne lit rien	Les élèves lisent tous quelque chose.	F	115_05.wav	115_13.wav		audio_1
+13	NC	manger	Pendant le ramadan, on doit jeuner toute la journée.	personne ne mange rien	Les gens ne mangent pas ici.	V	117_06.wav	117_14.wav		audio_1
+14	NC	voir	On vient de couper l’électricité et il fait tout noir ici :	personne ne voit rien	Ils voient tous quelque chose.	F	107_08.wav	107_16.wav		audio_1
+15	DN	aimer	Ce restaurant est genial!Tout est vraiment trop bon!	personne n'aime rien	Ils  aiment tous quelque chose.	V	109_01.wav	109_09.wav	speaker 1	audio_2
+16	DN	boire	Chez les jeunes, la consommation d’alcool est effrayante :  	personne ne boit rien dans les soirées.	Ils ne boivent pas d’alcool.	F	109_02.wav	109_10.wav		audio_2
+17	DN	dire	Chez nous, les profs veulent tous donner leur avis : 	personne ne dit rien pendant les réunions.	Ils disent tous quelque chose.	V	110_03.wav	110_11.wav		audio_2
+18	DN	faire	Les gars, Il faut absolument finir le jardinarge avant le week end!	personne ne fait rien	Ils ne font pas de travail.	F	126_04.wav	126_12.wav		audio_2
+19	DN	lire	Dans cette école d'élite, absolument tous les élèves font leurs devoirs, même en été:	Personne ne lit rien	Les élèves lisent tous quelque chose.	V	109_05.wav	109_13.wav		audio_2
+20	DN	manger	Dans cette clinique, même quand on fait un régime d'un mois, on doit se nourrir un peu :	personne ne mange rien	Ils ne mangent pas pendant un mois.	F	121_06.wav	121_14.wav		audio_2
+21	DN	voir	La science dit que même les aveugles ont une vision inconsciente dans une pièce noire :	personne ne voit rien	Tout le monde voit quelque chose.	V	121_08.wav	121_16.wav		audio_2
+22	DN	aimer	Ce restaurant est genial!Tout est vraiment trop bon!	personne n'aime rien	Ils  aiment tous quelque chose.	V	115_01.wav	115_09.wav		audio_2
+23	DN	boire	Chez les jeunes, la consommation d’alcool est effrayante :  	personne ne boit rien dans les soirées.	Ils ne boivent pas d’alcool.	F	115_02.wav	115_10.wav		audio_2
+24	DN	dire	Chez nous, les profs veulent tous donner leur avis : 	personne ne dit rien pendant les réunions.	Ils disent tous quelque chose.	V	121_03.wav	121_11.wav		audio_2
+25	DN	faire	Les gars, Il faut absolument finir le jardinarge avant le week end!	personne ne fait rien	Ils ne font pas de travail.	F	121_04.wav	121_12.wav		audio_2
+26	DN	lire	Dans cette école d'élite, absolument tous les élèves font leurs devoirs, même en été:	Personne ne lit rien	Les élèves lisent tous quelque chose.	V	115_05.wav	115_13.wav		audio_2
+27	DN	manger	Dans cette clinique, même quand on fait un régime d'un mois, on doit se nourrir un peu :	personne ne mange rien	Ils ne mangent pas pendant un mois.	F	126_06.wav	126_06.wav		audio_2
+28	DN	voir	La science dit que même les aveugles ont une vision inconsciente dans une pièce noire :	personne ne voit rien	Tout le monde voit quelque chose.	V	126_08.wav	126_16.wav	speaker 2	audio_2
+29	All not	aimer	Quand ils sont petits, les enfants refusent tous les légumes verts.	Tous les enfants n'aiment pas les brocolis	Les enfants mangent de brocolis 	F	198_15.wav	198_22.wav		audio_1
+30	All not	boire	En France,  le ministère de l'éducation a interdit les boissons sucrées	Tous les enfants ne boivent pas de soda à l'école.	Quelques enfants boivent des sodas	F	198_16.wav	198_23.wav		audio_1
+31	All not	dire	Dans cette affaire, les gens ont été menacés de mort par la mafia	Tous les témoins ne disent pas la vérité	Les temoins mentent	V	198_17.wav	198_24.wav		audio_1
+32	All not	faire	Dans cette classe, ce sont les garcons les plus faibles et on sait pourquoi.	Tous les garçons ne font pas les exercises supplémentaires	Les garçons font leur travail	F	198_18.wav	198_25.wav		audio_1
+33	All not	lire	Les journaux papiers ne se vendent plus	Tous les gens ne lisent pas les nouvelles	Les gens lisent les journaux	F	198_19.wav	198_26.wav		audio_1
+34	All not	manger	Ce mois-ci la grippe aviaire fait peur aux consomateurs	Tous les gens ne mangent pas de poulet	Les gens mangent de la volaille	F	198_20.wav	198_27.wav		audio_1
+35	All not	voir	Quand il fait vraiment nuit noire	Tous les gens ne voient pas les couleurs dehors	Les gens voient en noir et blanc	V	198_21.wav	198_28.wav		audio_1
+36	All not	aimer	Quand ils sont petits, les enfants refusent tous les légumes verts.	Tous les enfants n'aiment pas les brocolis	Les enfants mangent de brocolis 	F	199_15.wav	199_22.wav		audio_1
+37	All not	boire	En France,  le ministère de l'éducation a interdit les boissons sucrées	Tous les enfants ne boivent pas de soda à l'école.	Quelques enfants boivent des sodas	F	199_16.wav	199_23.wav		audio_1
+38	All not	dire	Dans cette affaire, les gens ont été menacés de mort par la mafia	Tous les témoins ne disent pas la vérité	Les temoins mentent	V	199_17.wav	199_24.wav		audio_1
+39	All not	faire	Dans cette classe, ce sont les garcons les plus faibles et on sait pourquoi.	Tous les garçons ne font pas les exercises supplémentaires	Les garçons font leur travail	F	199_18.wav	199_25.wav		audio_1
+40	All not	lire	Les journaux papiers ne se vendent plus	Tous les gens ne lisent pas les nouvelles	Les gens lisent les journaux	F	199_19.wav	199_26.wav		audio_1
+41	All not	manger	Ce mois-ci la grippe aviaire fait peur aux consomateurs	Tous les gens ne mangent pas de poulet	Les gens mangent de la volaille	F	199_20.wav	199_27.wav		audio_1
+42	All not	voir	Quand il fait vraiment nuit noire	Tous les gens ne voient pas les couleurs dehors	Les gens voient en noir et blanc	V	199_21.wav	199_28.wav		audio_1
+43	Not All	aimer	Certains parents ont du mal à faire manger des légumes à leurs enfants	Tous les enfants n'aiment pas les brocolis	Quelques enfants mangent des brocolis	V	198_15.wav	198_22.wav		audio_2
+44	Not All	boire	Aux US, trop d'enfants boivent des boissons sucrées. Alors certains parents font attention.	Tous les enfants ne boivent pas de soda à l'école.	Seulement certains enfants boivent des soda. 	V	198_16.wav	198_23.wav		audio_2
+45	Not all	dire	Même quand ils doivent jurer sur la bible,	Tous les témoins ne disent pas la vérité	Les témoins sont sincères	F	198_17.wav	198_24.wav		audio_2
+46	Not All	faire	Dans cette classe, il n'y que certains garçons qui travaillent.	Tous les garçons ne font pas les exercises supplémentaires	Certains garcons font bien leur travail	V	198_18.wav	198_25.wav		audio_2
+47	Not All	lire	Il y a des gens plus au courant de l'actualité que d'autres.	Tous les gens ne lisent pas les nouvelles	Quelques personnes lisent le journal V	V	198_19.wav	198_26.wav		audio_2
+48	Not All	manger	Dans les avions il y a au moins deux menus; poulet ou pâtes	Tous les gens ne mangent pas de poulet	Certaines personnes sont végétariennes	V	198_20.wav	198_27.wav		audio_2
+49	Not all	voir	Certaines personnes sont daltoniennes	Tous les gens ne voient pas les couleurs dehors.	Il n'existe pas de daltoniennes F	F	198_21.wav	198_28.wav		audio_2
+50	Not All	aimer	Certains parents ont du mal à faire manger des légumes à leurs enfants	Tous les enfants n'aiment pas les brocolis	Quelques enfants mangent des brocolis	V	199_15.wav	199_22.wav		audio_2
+51	Not All	boire	Aux US, trop d'enfants boivent des boissons sucrées. Alors certains parents font attention.	Tous les enfants ne boivent pas de soda à l'école.	Seulement certains enfants boivent des soda. 	V	199_16.wav	199_23.wav		audio_2
+52	Not all	dire	Même quand ils doivent jurer sur la bible,	Tous les témoins ne disent pas la vérité	Les témoins sont sincères	F	199_17.wav	199_24.wav		audio_2
+53	Not All	faire	Dans cette classe, il n'y que certains garçons qui travaillent.	Tous les garçons ne font pas les exercises supplémentaires	Certains garcons font bien leur travail	V	199_18.wav	199_25.wav		audio_2
+54	Not All	lire	Il y a des gens plus au courant de l'actualité que d'autres.	Tous les gens ne lisent pas les nouvelles	Quelques personnes lisent le journal V	V	199_19.wav	199_26.wav		audio_2
+55	Not All	manger	Dans les avions il y a au moins deux menus; poulet ou pâtes	Tous les gens ne mangent pas de poulet	Certaines personnes sont végétariennes	V	199_20.wav	199_27.wav		audio_2
+56	Not all	voir	Certaines personnes sont daltoniennes	Tous les gens ne voient pas les couleurs dehors.	Il n'existe pas de daltoniennes F	F	199_21.wav	199_28.wav		audio_2
+57	n/a	n/a	Jean ne sait pas qui va venir a la soirée. Il me demande:	Marie va venir ce soir.	Jean n'est pas sûr qui va venir à la soirée. V	V	199_29.wav	199_30.wav		audio_1
+58	n/a	n/a	Jean ne sait pas quand sa soeur va venir, mais moi si. Je lui dis:	Françoise a téléphoné ce matin?	Jean sait quand sa soeur va venir. F 	F	199_29.wav	199_30.wav		audio_1
+59	n/a	n/a	Alain ne sait pas qui a téléphoné ce matin. Il me demande:	Françoise a téléphoné ce matin.	Alain n'est pas sûr qui a téléphoné. V	V	199_31.wav	119_32.wav		audio_1
+60	n/a	n/a	Alain sait que Francoise a appelé la maison mais il ne sait pas quand. Je lui dit:	Marie va venir ce soir ?	Alain sait quand Françoise a téléphoné F	F	199_31.wav	119_32.wav		audio_1

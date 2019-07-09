@@ -1,0 +1,61 @@
+Item	cond	verb	r1	r2
+1	NC	aimer	F	1
+2	NC	boire	T	1
+3	NC	dire	T	1
+4	NC	faire	T	1
+5	NC	lire	F	1
+6	NC	manger	T	1
+7	NC	voir	F	1
+8	NC	aimer	F	1
+9	NC	boire	T	1
+10	NC	dire	T	1
+11	NC	faire	T	1
+12	NC	lire	F	1
+13	NC	manger	T	1
+14	NC	voir	F	1
+15	DN	aimer	T	2
+16	DN	boire	F	2
+17	DN	dire	T	2
+18	DN	faire	F	2
+19	DN	lire	T	2
+20	DN	manger	F	2
+21	DN	voir	T	2
+22	DN	aimer	T	2
+23	DN	boire	F	2
+24	DN	dire	T	2
+25	DN	faire	F	2
+26	DN	lire	T	2
+27	DN	manger	F	2
+28	DN	voir	T	2
+29	All not	aimer	F	1
+30	All not	boire	F	1
+31	All not	dire	T	1
+32	All not	faire	F	1
+33	All not	lire	F	1
+34	All not	manger	F	1
+35	All not	voir	T	1
+36	All not	aimer	F	1
+37	All not	boire	F	1
+38	All not	dire	T	1
+39	All not	faire	F	1
+40	All not	lire	F	1
+41	All not	manger	F	1
+42	All not	voir	T	1
+43	Not All	aimer	T	2
+44	Not All	boire	T	2
+45	Not All	dire	F	2
+46	Not All	faire	T	2
+47	Not All	lire	T	2
+48	Not All	manger	T	2
+49	Not All	voir	F	2
+50	Not All	aimer	T	2
+51	Not All	boire	T	2
+52	Not All	dire	F	2
+53	Not All	faire	T	2
+54	Not All	lire	T	2
+55	Not All	manger	T	2
+56	Not All	voir	F	2
+57	NA	NA	T	1
+58	NA	NA	F	1
+59	NA	NA	T	1
+60	NA	NA	F	1

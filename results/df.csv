@@ -1,0 +1,794 @@
+,Item,order,response1,response2,response3,trialnumber,userCode,condition,verb,r1,r2,c1,c2
+1,1,undefined,FAUX,Enregistrement 1,4,17,OLT28,NC,aimer,FAUX,Enregistrement 1,1,1
+2,1,undefined,FAUX,Enregistrement 1,3,25,UUA3,NC,aimer,FAUX,Enregistrement 1,1,1
+3,1,undefined,FAUX,Enregistrement 1,4,21,EQH1,NC,aimer,FAUX,Enregistrement 1,1,1
+4,1,undefined,FAUX,Enregistrement 2,2,25,AEX2,NC,aimer,FAUX,Enregistrement 1,1,0
+5,1,undefined,FAUX,Enregistrement 1,5,29,WXS7,NC,aimer,FAUX,Enregistrement 1,1,1
+6,1,undefined,FAUX,Enregistrement 2,2,29,XHJ4,NC,aimer,FAUX,Enregistrement 1,1,0
+7,1,undefined,FAUX,Enregistrement 1,5,33,LVE32,NC,aimer,FAUX,Enregistrement 1,1,1
+8,1,undefined,FAUX,Enregistrement 2,4,25,TVY31,NC,aimer,FAUX,Enregistrement 1,1,0
+9,1,undefined,FAUX,Enregistrement 1,3,21,ZBB23,NC,aimer,FAUX,Enregistrement 1,1,1
+10,1,undefined,VRAI,Enregistrement 2,3,17,CCU15,NC,aimer,FAUX,Enregistrement 1,0,0
+11,1,undefined,FAUX,Enregistrement 2,3,33,BSW19,NC,aimer,FAUX,Enregistrement 1,1,0
+12,1,undefined,FAUX,Enregistrement 1,3,25,NLP40,NC,aimer,FAUX,Enregistrement 1,1,1
+13,1,undefined,VRAI,Enregistrement 2,5,33,IEI16,NC,aimer,FAUX,Enregistrement 1,0,0
+14,1,undefined,FAUX,Enregistrement 1,3,9,NNH5,NC,aimer,FAUX,Enregistrement 1,1,1
+15,1,undefined,FAUX,Enregistrement 1,5,21,TAO36,NC,aimer,FAUX,Enregistrement 1,1,1
+16,1,undefined,FAUX,Enregistrement 2,2,21,VBJ34,NC,aimer,FAUX,Enregistrement 1,1,0
+17,1,undefined,FAUX,Enregistrement 2,5,17,GZM25,NC,aimer,FAUX,Enregistrement 1,1,0
+18,1,undefined,FAUX,Enregistrement 1,4,17,IED39,NC,aimer,FAUX,Enregistrement 1,1,1
+19,1,undefined,FAUX,Enregistrement 1,5,33,QCG14,NC,aimer,FAUX,Enregistrement 1,1,1
+20,1,undefined,FAUX,Enregistrement 2,4,9,FCP17,NC,aimer,FAUX,Enregistrement 1,1,0
+21,1,undefined,FAUX,Enregistrement 1,3,13,BIL13,NC,aimer,FAUX,Enregistrement 1,1,1
+22,1,undefined,FAUX,Enregistrement 1,5,13,BJT30,NC,aimer,FAUX,Enregistrement 1,1,1
+23,10,undefined,VRAI,Enregistrement 1,4,21,ZXY5,NC,dire,VRAI,Enregistrement 1,1,1
+24,10,undefined,VRAI,Enregistrement 1,1,9,JLR1,NC,dire,VRAI,Enregistrement 1,1,1
+25,10,undefined,VRAI,Enregistrement 1,5,13,YUF17,NC,dire,VRAI,Enregistrement 1,1,1
+26,10,undefined,FAUX,Enregistrement 1,5,25,IND9,NC,dire,VRAI,Enregistrement 1,0,1
+27,10,undefined,VRAI,Enregistrement 2,3,9,LYB6,NC,dire,VRAI,Enregistrement 1,1,0
+28,10,undefined,VRAI,Enregistrement 1,3,13,ABY16,NC,dire,VRAI,Enregistrement 1,1,1
+29,10,undefined,VRAI,Enregistrement 2,5,25,NCR14,NC,dire,VRAI,Enregistrement 1,1,0
+30,10,undefined,FAUX,Enregistrement 1,4,21,BDC12,NC,dire,VRAI,Enregistrement 1,0,1
+31,10,undefined,VRAI,Enregistrement 2,1,9,QNS18,NC,dire,VRAI,Enregistrement 1,1,0
+32,10,undefined,FAUX,Enregistrement 2,2,33,CFJ15,NC,dire,VRAI,Enregistrement 1,0,0
+33,10,undefined,VRAI,Enregistrement 2,5,17,ZYC8,NC,dire,VRAI,Enregistrement 1,1,0
+34,11,undefined,VRAI,Enregistrement 1,4,29,ZXY5,NC,faire,VRAI,Enregistrement 1,1,1
+35,11,undefined,VRAI,Enregistrement 2,3,13,WPX3,NC,faire,VRAI,Enregistrement 1,1,0
+36,11,undefined,VRAI,Enregistrement 2,5,13,ZYC8,NC,faire,VRAI,Enregistrement 1,1,0
+37,11,undefined,VRAI,Enregistrement 2,3,9,BDC12,NC,faire,VRAI,Enregistrement 1,1,0
+38,11,undefined,VRAI,Enregistrement 2,5,25,CFJ15,NC,faire,VRAI,Enregistrement 1,1,0
+39,11,undefined,VRAI,Enregistrement 2,1,33,QNS18,NC,faire,VRAI,Enregistrement 1,1,0
+40,11,undefined,VRAI,Enregistrement 1,4,9,IND9,NC,faire,VRAI,Enregistrement 1,1,1
+41,11,undefined,VRAI,Enregistrement 1,3,13,JLR1,NC,faire,VRAI,Enregistrement 1,1,1
+42,11,undefined,VRAI,Enregistrement 2,3,25,ABY16,NC,faire,VRAI,Enregistrement 1,1,0
+43,11,undefined,VRAI,Enregistrement 2,5,33,NCR14,NC,faire,VRAI,Enregistrement 1,1,0
+44,12,undefined,VRAI,Enregistrement 1,4,9,YUF17,NC,lire,FAUX,Enregistrement 1,0,1
+45,12,undefined,VRAI,Enregistrement 2,3,21,ABY16,NC,lire,FAUX,Enregistrement 1,0,0
+46,12,undefined,FAUX,Enregistrement 1,5,13,BDC12,NC,lire,FAUX,Enregistrement 1,1,1
+47,12,undefined,FAUX,Enregistrement 1,5,25,ZXY5,NC,lire,FAUX,Enregistrement 1,1,1
+48,12,undefined,FAUX,Enregistrement 2,2,33,JLR1,NC,lire,FAUX,Enregistrement 1,1,0
+49,12,undefined,FAUX,Enregistrement 1,5,13,NCR14,NC,lire,FAUX,Enregistrement 1,1,1
+50,12,undefined,VRAI,Enregistrement 1,5,13,IND9,NC,lire,FAUX,Enregistrement 1,0,1
+51,12,undefined,FAUX,Enregistrement 1,4,9,CFJ15,NC,lire,FAUX,Enregistrement 1,1,1
+52,12,undefined,FAUX,Enregistrement 2,3,21,QNS18,NC,lire,FAUX,Enregistrement 1,1,0
+53,12,undefined,FAUX,Enregistrement 1,3,21,ZYC8,NC,lire,FAUX,Enregistrement 1,1,1
+54,13,undefined,VRAI,Enregistrement 2,5,29,ZYC8,NC,manger,VRAI,Enregistrement 1,1,0
+55,13,undefined,VRAI,Enregistrement 2,4,21,JLR1,NC,manger,VRAI,Enregistrement 1,1,0
+56,13,undefined,VRAI,Enregistrement 1,1,29,QNS18,NC,manger,VRAI,Enregistrement 1,1,1
+57,13,undefined,FAUX,Enregistrement 2,4,29,ABY16,NC,manger,VRAI,Enregistrement 1,0,0
+58,13,undefined,VRAI,Enregistrement 1,5,29,IND9,NC,manger,VRAI,Enregistrement 1,1,1
+59,13,undefined,VRAI,Enregistrement 2,5,17,CFJ15,NC,manger,VRAI,Enregistrement 1,1,0
+60,13,undefined,FAUX,Enregistrement 2,5,29,NCR14,NC,manger,VRAI,Enregistrement 1,0,0
+61,13,undefined,VRAI,Enregistrement 2,4,33,ZXY5,NC,manger,VRAI,Enregistrement 1,1,0
+62,13,undefined,FAUX,Enregistrement 1,5,29,BDC12,NC,manger,VRAI,Enregistrement 1,0,1
+63,14,undefined,FAUX,Enregistrement 2,5,33,ZYC8,NC,voir,FAUX,Enregistrement 1,1,0
+64,14,undefined,FAUX,Enregistrement 2,2,29,JLR1,NC,voir,FAUX,Enregistrement 1,1,0
+65,14,undefined,VRAI,Enregistrement 1,1,17,QNS18,NC,voir,FAUX,Enregistrement 1,0,1
+66,14,undefined,FAUX,Enregistrement 2,5,9,NCR14,NC,voir,FAUX,Enregistrement 1,1,0
+67,14,undefined,VRAI,Enregistrement 1,5,21,CFJ15,NC,voir,FAUX,Enregistrement 1,0,1
+68,14,undefined,FAUX,Enregistrement 2,4,17,ABY16,NC,voir,FAUX,Enregistrement 1,1,0
+69,14,undefined,FAUX,Enregistrement 1,5,21,IND9,NC,voir,FAUX,Enregistrement 1,1,1
+70,14,undefined,FAUX,Enregistrement 1,3,9,WPX3,NC,voir,FAUX,Enregistrement 1,1,1
+71,14,undefined,FAUX,Enregistrement 2,5,17,ZXY5,NC,voir,FAUX,Enregistrement 1,1,0
+72,14,undefined,FAUX,Enregistrement 2,5,33,BDC12,NC,voir,FAUX,Enregistrement 1,1,0
+73,15,undefined,VRAI,Enregistrement 2,2,19,CCU15,DN,aimer,VRAI,Enregistrement 2,1,1
+74,15,undefined,VRAI,Enregistrement 1,5,19,LVE32,DN,aimer,VRAI,Enregistrement 2,1,0
+75,15,undefined,VRAI,Enregistrement 1,4,23,BSW19,DN,aimer,VRAI,Enregistrement 2,1,0
+76,15,undefined,FAUX,Enregistrement 1,1,11,XHJ4,DN,aimer,VRAI,Enregistrement 2,0,0
+77,15,undefined,VRAI,Enregistrement 1,3,27,WXS7,DN,aimer,VRAI,Enregistrement 2,1,0
+78,15,undefined,VRAI,Enregistrement 2,3,23,EQH1,DN,aimer,VRAI,Enregistrement 2,1,1
+79,15,undefined,VRAI,Enregistrement 2,5,15,UUA3,DN,aimer,VRAI,Enregistrement 2,1,1
+80,15,undefined,FAUX,Enregistrement 2,5,11,TAO36,DN,aimer,VRAI,Enregistrement 2,0,1
+81,15,undefined,VRAI,Enregistrement 2,3,19,TVY31,DN,aimer,VRAI,Enregistrement 2,1,1
+82,15,undefined,FAUX,Enregistrement 1,2,15,IED39,DN,aimer,VRAI,Enregistrement 2,0,0
+83,15,undefined,VRAI,Enregistrement 1,2,23,BIL13,DN,aimer,VRAI,Enregistrement 2,1,0
+84,15,undefined,VRAI,Enregistrement 1,3,11,WZJ26,DN,aimer,VRAI,Enregistrement 2,1,0
+85,15,undefined,FAUX,Enregistrement 2,4,27,NLP40,DN,aimer,VRAI,Enregistrement 2,0,1
+86,15,undefined,VRAI,Enregistrement 1,5,19,GZM25,DN,aimer,VRAI,Enregistrement 2,1,0
+87,15,undefined,VRAI,Enregistrement 2,4,11,IEI16,DN,aimer,VRAI,Enregistrement 2,1,1
+88,15,undefined,VRAI,Enregistrement 2,5,35,BJT30,DN,aimer,VRAI,Enregistrement 2,1,1
+89,15,undefined,VRAI,Enregistrement 2,3,35,VBJ34,DN,aimer,VRAI,Enregistrement 2,1,1
+90,15,undefined,VRAI,Enregistrement 2,1,27,ZBB23,DN,aimer,VRAI,Enregistrement 2,1,1
+91,15,undefined,FAUX,Enregistrement 1,3,27,QCG14,DN,aimer,VRAI,Enregistrement 2,0,0
+92,16,undefined,FAUX,Enregistrement 2,5,35,TVY31,DN,boire,FAUX,Enregistrement 2,1,1
+93,16,undefined,FAUX,Enregistrement 2,1,15,CCU15,DN,boire,FAUX,Enregistrement 2,1,1
+94,16,undefined,FAUX,Enregistrement 1,4,19,BIL13,DN,boire,FAUX,Enregistrement 2,1,0
+95,16,undefined,VRAI,Enregistrement 2,4,23,NLP40,DN,boire,FAUX,Enregistrement 2,0,1
+96,16,undefined,FAUX,Enregistrement 2,4,31,UUA3,DN,boire,FAUX,Enregistrement 2,1,1
+97,16,undefined,FAUX,Enregistrement 1,2,19,WXS7,DN,boire,FAUX,Enregistrement 2,1,0
+98,16,undefined,FAUX,Enregistrement 2,4,35,EQH1,DN,boire,FAUX,Enregistrement 2,1,1
+99,16,undefined,FAUX,Enregistrement 2,5,15,GZM25,DN,boire,FAUX,Enregistrement 2,1,1
+100,16,undefined,FAUX,Enregistrement 2,5,19,IEI16,DN,boire,FAUX,Enregistrement 2,1,1
+101,16,undefined,FAUX,Enregistrement 2,5,19,BJT30,DN,boire,FAUX,Enregistrement 2,1,1
+102,16,undefined,FAUX,Enregistrement 2,1,23,LVE32,DN,boire,FAUX,Enregistrement 2,1,1
+103,16,undefined,FAUX,Enregistrement 2,5,19,VBJ34,DN,boire,FAUX,Enregistrement 2,1,1
+104,16,undefined,FAUX,Enregistrement 2,2,15,XHJ4,DN,boire,FAUX,Enregistrement 2,1,1
+105,16,undefined,FAUX,Enregistrement 2,2,19,BSW19,DN,boire,FAUX,Enregistrement 2,1,1
+106,16,undefined,FAUX,Enregistrement 2,5,19,QCG14,DN,boire,FAUX,Enregistrement 2,1,1
+107,16,undefined,FAUX,Enregistrement 2,5,31,TAO36,DN,boire,FAUX,Enregistrement 2,1,1
+108,16,undefined,FAUX,Enregistrement 2,5,15,ZBB23,DN,boire,FAUX,Enregistrement 2,1,1
+109,17,undefined,VRAI,Enregistrement 2,2,15,BSW19,DN,dire,VRAI,Enregistrement 2,1,1
+110,17,undefined,FAUX,Enregistrement 2,5,11,OLT28,DN,dire,VRAI,Enregistrement 2,0,1
+111,17,undefined,VRAI,Enregistrement 1,1,19,IED39,DN,dire,VRAI,Enregistrement 2,1,0
+112,17,undefined,FAUX,Enregistrement 1,3,23,VBJ34,DN,dire,VRAI,Enregistrement 2,0,0
+113,17,undefined,VRAI,Enregistrement 2,5,15,TAO36,DN,dire,VRAI,Enregistrement 2,1,1
+114,17,undefined,FAUX,Enregistrement 1,3,31,BJT30,DN,dire,VRAI,Enregistrement 2,0,0
+115,17,undefined,VRAI,Enregistrement 2,3,11,NCP30,DN,dire,VRAI,Enregistrement 2,1,1
+116,17,undefined,VRAI,Enregistrement 2,3,35,CCU15,DN,dire,VRAI,Enregistrement 2,1,1
+117,17,undefined,FAUX,Enregistrement 2,4,15,NLP40,DN,dire,VRAI,Enregistrement 2,0,1
+118,17,undefined,FAUX,Enregistrement 1,4,15,WXS7,DN,dire,VRAI,Enregistrement 2,0,0
+119,17,undefined,FAUX,Enregistrement 1,3,11,FCP17,DN,dire,VRAI,Enregistrement 2,0,0
+120,17,undefined,FAUX,Enregistrement 1,1,19,AEX2,DN,dire,VRAI,Enregistrement 2,0,0
+121,17,undefined,VRAI,Enregistrement 2,1,11,TVY31,DN,dire,VRAI,Enregistrement 2,1,1
+122,17,undefined,VRAI,Enregistrement 1,1,27,LVE32,DN,dire,VRAI,Enregistrement 2,1,0
+123,17,undefined,VRAI,Enregistrement 2,1,35,UUA3,DN,dire,VRAI,Enregistrement 2,1,1
+124,17,undefined,FAUX,Enregistrement 2,5,35,IEI16,DN,dire,VRAI,Enregistrement 2,0,1
+125,17,undefined,FAUX,Enregistrement 1,1,31,XHJ4,DN,dire,VRAI,Enregistrement 2,0,0
+126,17,undefined,FAUX,Enregistrement 2,5,31,QCG14,DN,dire,VRAI,Enregistrement 2,0,1
+127,17,undefined,FAUX,Enregistrement 1,3,11,ZBB23,DN,dire,VRAI,Enregistrement 2,0,0
+128,17,undefined,VRAI,Enregistrement 1,2,31,EQH1,DN,dire,VRAI,Enregistrement 2,1,0
+129,18,undefined,VRAI,Enregistrement 1,3,11,GZM25,DN,faire,FAUX,Enregistrement 2,0,0
+130,18,undefined,VRAI,Enregistrement 1,5,23,QCG14,DN,faire,FAUX,Enregistrement 2,0,0
+131,18,undefined,VRAI,Enregistrement 1,1,11,IED39,DN,faire,FAUX,Enregistrement 2,0,0
+132,18,undefined,VRAI,Enregistrement 1,2,31,CCU15,DN,faire,FAUX,Enregistrement 2,0,0
+133,18,undefined,VRAI,Enregistrement 1,2,19,XHJ4,DN,faire,FAUX,Enregistrement 2,0,0
+134,18,undefined,VRAI,Enregistrement 1,4,15,TVY31,DN,faire,FAUX,Enregistrement 2,0,0
+135,18,undefined,VRAI,Enregistrement 1,3,35,NLP40,DN,faire,FAUX,Enregistrement 2,0,0
+136,18,undefined,VRAI,Enregistrement 1,2,11,AEX2,DN,faire,FAUX,Enregistrement 2,0,0
+137,18,undefined,VRAI,Enregistrement 2,4,19,OLT28,DN,faire,FAUX,Enregistrement 2,0,1
+138,18,undefined,FAUX,Enregistrement 2,3,27,EQH1,DN,faire,FAUX,Enregistrement 2,1,1
+139,18,undefined,VRAI,Enregistrement 1,2,27,UUA3,DN,faire,FAUX,Enregistrement 2,0,0
+140,18,undefined,VRAI,Enregistrement 1,3,19,ZBB23,DN,faire,FAUX,Enregistrement 2,0,0
+141,18,undefined,FAUX,Enregistrement 2,5,23,TAO36,DN,faire,FAUX,Enregistrement 2,1,1
+142,18,undefined,FAUX,Enregistrement 1,2,35,BSW19,DN,faire,FAUX,Enregistrement 2,1,0
+143,18,undefined,VRAI,Enregistrement 2,1,31,VBJ34,DN,faire,FAUX,Enregistrement 2,0,1
+144,18,undefined,VRAI,Enregistrement 1,5,11,BJT30,DN,faire,FAUX,Enregistrement 2,0,0
+145,18,undefined,VRAI,Enregistrement 2,2,11,LVE32,DN,faire,FAUX,Enregistrement 2,0,1
+146,18,undefined,VRAI,Enregistrement 2,5,31,IEI16,DN,faire,FAUX,Enregistrement 2,0,1
+147,18,undefined,VRAI,Enregistrement 2,3,11,OJD8,DN,faire,FAUX,Enregistrement 2,0,1
+148,18,undefined,VRAI,Enregistrement 1,3,35,WXS7,DN,faire,FAUX,Enregistrement 2,0,0
+149,19,undefined,FAUX,Enregistrement 1,3,11,WXS7,DN,lire,VRAI,Enregistrement 2,0,0
+150,19,undefined,VRAI,Enregistrement 2,4,35,XHJ4,DN,lire,VRAI,Enregistrement 2,1,1
+151,19,undefined,VRAI,Enregistrement 2,2,35,ZBB23,DN,lire,VRAI,Enregistrement 2,1,1
+152,19,undefined,FAUX,Enregistrement 2,4,11,REA6,DN,lire,VRAI,Enregistrement 2,0,1
+153,19,undefined,FAUX,Enregistrement 2,5,15,QCG14,DN,lire,VRAI,Enregistrement 2,0,1
+154,19,undefined,FAUX,Enregistrement 1,4,27,BJT30,DN,lire,VRAI,Enregistrement 2,0,0
+155,19,undefined,VRAI,Enregistrement 2,4,31,LVE32,DN,lire,VRAI,Enregistrement 2,1,1
+156,19,undefined,VRAI,Enregistrement 1,2,27,TVY31,DN,lire,VRAI,Enregistrement 2,1,0
+157,19,undefined,VRAI,Enregistrement 1,4,23,CCU15,DN,lire,VRAI,Enregistrement 2,1,0
+158,19,undefined,VRAI,Enregistrement 2,4,11,BIL13,DN,lire,VRAI,Enregistrement 2,1,1
+159,19,undefined,FAUX,Enregistrement 2,5,23,OLT28,DN,lire,VRAI,Enregistrement 2,0,1
+160,19,undefined,FAUX,Enregistrement 2,5,15,IEI16,DN,lire,VRAI,Enregistrement 2,0,1
+161,19,undefined,FAUX,Enregistrement 2,2,15,AEX2,DN,lire,VRAI,Enregistrement 2,0,1
+162,19,undefined,VRAI,Enregistrement 1,3,15,VBJ34,DN,lire,VRAI,Enregistrement 2,1,0
+163,19,undefined,VRAI,Enregistrement 2,5,35,TAO36,DN,lire,VRAI,Enregistrement 2,1,1
+164,19,undefined,VRAI,Enregistrement 1,1,11,UUA3,DN,lire,VRAI,Enregistrement 2,1,0
+165,19,undefined,VRAI,Enregistrement 2,4,11,EQH1,DN,lire,VRAI,Enregistrement 2,1,1
+166,19,undefined,FAUX,Enregistrement 2,2,11,HYE38,DN,lire,VRAI,Enregistrement 2,0,1
+167,19,undefined,FAUX,Enregistrement 2,3,11,BSW19,DN,lire,VRAI,Enregistrement 2,0,1
+168,19,undefined,FAUX,Enregistrement 1,5,11,NLP40,DN,lire,VRAI,Enregistrement 2,0,0
+169,2,undefined,VRAI,Enregistrement 1,4,9,BIL13,NC,boire,VRAI,Enregistrement 1,1,1
+170,2,undefined,VRAI,Enregistrement 1,5,21,GZM25,NC,boire,VRAI,Enregistrement 1,1,1
+171,2,undefined,VRAI,Enregistrement 1,3,9,BSW19,NC,boire,VRAI,Enregistrement 1,1,1
+172,2,undefined,VRAI,Enregistrement 1,3,29,UUA3,NC,boire,VRAI,Enregistrement 1,1,1
+173,2,undefined,VRAI,Enregistrement 2,4,29,NLP40,NC,boire,VRAI,Enregistrement 1,1,0
+174,2,undefined,VRAI,Enregistrement 2,4,9,HYE38,NC,boire,VRAI,Enregistrement 1,1,0
+175,2,undefined,VRAI,Enregistrement 2,5,9,QCG14,NC,boire,VRAI,Enregistrement 1,1,0
+176,2,undefined,VRAI,Enregistrement 2,3,9,ZBB23,NC,boire,VRAI,Enregistrement 1,1,0
+177,2,undefined,VRAI,Enregistrement 1,4,33,WXS7,NC,boire,VRAI,Enregistrement 1,1,1
+178,2,undefined,VRAI,Enregistrement 1,4,9,TVY31,NC,boire,VRAI,Enregistrement 1,1,1
+179,2,undefined,VRAI,Enregistrement 1,5,13,XHJ4,NC,boire,VRAI,Enregistrement 1,1,1
+180,2,undefined,VRAI,Enregistrement 2,4,9,CCU15,NC,boire,VRAI,Enregistrement 1,1,0
+181,2,undefined,VRAI,Enregistrement 2,5,13,IEI16,NC,boire,VRAI,Enregistrement 1,1,0
+182,2,undefined,VRAI,Enregistrement 1,5,9,BJT30,NC,boire,VRAI,Enregistrement 1,1,1
+183,2,undefined,VRAI,Enregistrement 1,5,9,ASB20,NC,boire,VRAI,Enregistrement 1,1,1
+184,2,undefined,VRAI,Enregistrement 1,4,25,EQH1,NC,boire,VRAI,Enregistrement 1,1,1
+185,2,undefined,VRAI,Enregistrement 1,5,9,LVE32,NC,boire,VRAI,Enregistrement 1,1,1
+186,2,undefined,VRAI,Enregistrement 1,5,29,TAO36,NC,boire,VRAI,Enregistrement 1,1,1
+187,2,undefined,VRAI,Enregistrement 1,5,17,VBJ34,NC,boire,VRAI,Enregistrement 1,1,1
+188,20,undefined,FAUX,Enregistrement 2,3,11,CCU15,DN,manger,FAUX,Enregistrement 2,1,1
+189,20,undefined,FAUX,Enregistrement 1,5,11,QCG14,DN,manger,FAUX,Enregistrement 2,1,0
+190,20,undefined,FAUX,Enregistrement 2,4,23,UUA3,DN,manger,FAUX,Enregistrement 2,1,1
+191,20,undefined,FAUX,Enregistrement 1,2,15,LVE32,DN,manger,FAUX,Enregistrement 2,1,0
+192,20,undefined,VRAI,Enregistrement 2,4,31,NLP40,DN,manger,FAUX,Enregistrement 2,0,1
+193,20,undefined,FAUX,Enregistrement 1,4,23,WXS7,DN,manger,FAUX,Enregistrement 2,1,0
+194,20,undefined,FAUX,Enregistrement 1,3,31,BSW19,DN,manger,FAUX,Enregistrement 2,1,0
+195,20,undefined,FAUX,Enregistrement 1,2,27,BIL13,DN,manger,FAUX,Enregistrement 2,1,0
+196,20,undefined,FAUX,Enregistrement 2,4,31,TVY31,DN,manger,FAUX,Enregistrement 2,1,1
+197,20,undefined,FAUX,Enregistrement 2,5,11,VBJ34,DN,manger,FAUX,Enregistrement 2,1,1
+198,20,undefined,FAUX,Enregistrement 1,2,15,EQH1,DN,manger,FAUX,Enregistrement 2,1,0
+199,20,undefined,FAUX,Enregistrement 2,3,31,ZBB23,DN,manger,FAUX,Enregistrement 2,1,1
+200,20,undefined,FAUX,Enregistrement 1,1,27,IEI16,DN,manger,FAUX,Enregistrement 2,1,0
+201,20,undefined,FAUX,Enregistrement 2,2,23,AEX2,DN,manger,FAUX,Enregistrement 2,1,1
+202,20,undefined,FAUX,Enregistrement 1,5,15,BJT30,DN,manger,FAUX,Enregistrement 2,1,0
+203,20,undefined,VRAI,Enregistrement 1,1,27,XHJ4,DN,manger,FAUX,Enregistrement 2,0,0
+204,20,undefined,FAUX,Enregistrement 1,3,19,TAO36,DN,manger,FAUX,Enregistrement 2,1,0
+205,21,undefined,VRAI,Enregistrement 2,5,27,VBJ34,DN,voir,VRAI,Enregistrement 2,1,1
+206,21,undefined,VRAI,Enregistrement 2,3,23,XHJ4,DN,voir,VRAI,Enregistrement 2,1,1
+207,21,undefined,VRAI,Enregistrement 2,3,19,NLP40,DN,voir,VRAI,Enregistrement 2,1,1
+208,21,undefined,FAUX,Enregistrement 1,5,27,CCU15,DN,voir,VRAI,Enregistrement 2,0,0
+209,21,undefined,VRAI,Enregistrement 1,3,23,IEI16,DN,voir,VRAI,Enregistrement 2,1,0
+210,21,undefined,VRAI,Enregistrement 1,4,15,BIL13,DN,voir,VRAI,Enregistrement 2,1,0
+211,21,undefined,VRAI,Enregistrement 1,2,35,LVE32,DN,voir,VRAI,Enregistrement 2,1,0
+212,21,undefined,VRAI,Enregistrement 2,3,19,UUA3,DN,voir,VRAI,Enregistrement 2,1,1
+213,21,undefined,FAUX,Enregistrement 2,5,35,QCG14,DN,voir,VRAI,Enregistrement 2,0,1
+214,21,undefined,VRAI,Enregistrement 2,3,23,ZBB23,DN,voir,VRAI,Enregistrement 2,1,1
+215,21,undefined,VRAI,Enregistrement 2,4,23,TVY31,DN,voir,VRAI,Enregistrement 2,1,1
+216,21,undefined,VRAI,Enregistrement 2,5,27,TAO36,DN,voir,VRAI,Enregistrement 2,1,1
+217,21,undefined,VRAI,Enregistrement 2,5,31,WXS7,DN,voir,VRAI,Enregistrement 2,1,1
+218,21,undefined,VRAI,Enregistrement 1,5,15,OLT28,DN,voir,VRAI,Enregistrement 2,1,0
+219,21,undefined,VRAI,Enregistrement 2,2,19,EQH1,DN,voir,VRAI,Enregistrement 2,1,1
+220,21,undefined,VRAI,Enregistrement 2,5,23,BJT30,DN,voir,VRAI,Enregistrement 2,1,1
+221,21,undefined,VRAI,Enregistrement 2,3,27,BSW19,DN,voir,VRAI,Enregistrement 2,1,1
+222,22,undefined,FAUX,Enregistrement 2,5,23,ZYC8,DN,aimer,VRAI,Enregistrement 2,0,1
+223,22,undefined,FAUX,Enregistrement 1,4,23,BDC12,DN,aimer,VRAI,Enregistrement 2,0,0
+224,22,undefined,VRAI,Enregistrement 2,5,27,CFJ15,DN,aimer,VRAI,Enregistrement 2,1,1
+225,22,undefined,VRAI,Enregistrement 2,1,15,QNS18,DN,aimer,VRAI,Enregistrement 2,1,1
+226,22,undefined,VRAI,Enregistrement 2,4,15,ABY16,DN,aimer,VRAI,Enregistrement 2,1,1
+227,22,undefined,VRAI,Enregistrement 1,3,19,IND9,DN,aimer,VRAI,Enregistrement 2,1,0
+228,22,undefined,VRAI,Enregistrement 1,5,23,NCR14,DN,aimer,VRAI,Enregistrement 2,1,0
+229,22,undefined,VRAI,Enregistrement 1,2,35,JLR1,DN,aimer,VRAI,Enregistrement 2,1,0
+230,22,undefined,VRAI,Enregistrement 2,4,35,ZXY5,DN,aimer,VRAI,Enregistrement 2,1,1
+231,23,undefined,FAUX,Enregistrement 2,5,31,ZYC8,DN,boire,FAUX,Enregistrement 2,1,1
+232,23,undefined,FAUX,Enregistrement 2,2,11,WPX3,DN,boire,FAUX,Enregistrement 2,1,1
+233,23,undefined,FAUX,Enregistrement 2,3,11,ZXY5,DN,boire,FAUX,Enregistrement 2,1,1
+234,23,undefined,FAUX,Enregistrement 1,3,27,ABY16,DN,boire,FAUX,Enregistrement 2,1,0
+235,23,undefined,FAUX,Enregistrement 1,3,23,CFJ15,DN,boire,FAUX,Enregistrement 2,1,0
+236,23,undefined,FAUX,Enregistrement 1,1,11,QNS18,DN,boire,FAUX,Enregistrement 2,1,0
+237,23,undefined,FAUX,Enregistrement 2,3,11,BDC12,DN,boire,FAUX,Enregistrement 2,1,1
+238,23,undefined,FAUX,Enregistrement 1,3,23,JLR1,DN,boire,FAUX,Enregistrement 2,1,0
+239,23,undefined,FAUX,Enregistrement 1,5,27,NCR14,DN,boire,FAUX,Enregistrement 2,1,0
+240,23,undefined,FAUX,Enregistrement 1,4,35,IND9,DN,boire,FAUX,Enregistrement 2,1,0
+241,24,undefined,FAUX,Enregistrement 1,3,23,ABY16,DN,dire,VRAI,Enregistrement 2,0,0
+242,24,undefined,VRAI,Enregistrement 2,4,19,ZXY5,DN,dire,VRAI,Enregistrement 2,1,1
+243,24,undefined,VRAI,Enregistrement 2,4,15,BDC12,DN,dire,VRAI,Enregistrement 2,1,1
+244,24,undefined,FAUX,Enregistrement 2,1,15,JLR1,DN,dire,VRAI,Enregistrement 2,0,1
+245,24,undefined,VRAI,Enregistrement 2,5,35,NCR14,DN,dire,VRAI,Enregistrement 2,1,1
+246,24,undefined,FAUX,Enregistrement 2,5,27,ZYC8,DN,dire,VRAI,Enregistrement 2,0,1
+247,24,undefined,FAUX,Enregistrement 2,4,27,IND9,DN,dire,VRAI,Enregistrement 2,0,1
+248,24,undefined,FAUX,Enregistrement 2,4,15,CFJ15,DN,dire,VRAI,Enregistrement 2,0,1
+249,24,undefined,FAUX,Enregistrement 2,1,31,QNS18,DN,dire,VRAI,Enregistrement 2,0,1
+250,25,undefined,VRAI,Enregistrement 1,3,27,QNS18,DN,faire,FAUX,Enregistrement 2,0,0
+251,25,undefined,VRAI,Enregistrement 1,5,23,ZXY5,DN,faire,FAUX,Enregistrement 2,0,0
+252,25,undefined,VRAI,Enregistrement 1,5,19,ZYC8,DN,faire,FAUX,Enregistrement 2,0,0
+253,25,undefined,VRAI,Enregistrement 1,5,35,CFJ15,DN,faire,FAUX,Enregistrement 2,0,0
+254,25,undefined,VRAI,Enregistrement 1,5,15,NCR14,DN,faire,FAUX,Enregistrement 2,0,0
+255,25,undefined,VRAI,Enregistrement 1,3,11,ABY16,DN,faire,FAUX,Enregistrement 2,0,0
+256,25,undefined,VRAI,Enregistrement 1,3,19,JLR1,DN,faire,FAUX,Enregistrement 2,0,0
+257,25,undefined,FAUX,Enregistrement 2,3,15,IND9,DN,faire,FAUX,Enregistrement 2,1,1
+258,25,undefined,VRAI,Enregistrement 1,5,27,BDC12,DN,faire,FAUX,Enregistrement 2,0,0
+259,26,undefined,VRAI,Enregistrement 2,1,15,WPX3,DN,lire,VRAI,Enregistrement 2,1,1
+260,26,undefined,FAUX,Enregistrement 1,5,35,ZYC8,DN,lire,VRAI,Enregistrement 2,0,0
+261,26,undefined,FAUX,Enregistrement 2,3,11,CFJ15,DN,lire,VRAI,Enregistrement 2,0,1
+262,26,undefined,FAUX,Enregistrement 1,3,19,ABY16,DN,lire,VRAI,Enregistrement 2,0,0
+263,26,undefined,FAUX,Enregistrement 2,1,35,QNS18,DN,lire,VRAI,Enregistrement 2,0,1
+264,26,undefined,FAUX,Enregistrement 2,5,11,NCR14,DN,lire,VRAI,Enregistrement 2,0,1
+265,26,undefined,VRAI,Enregistrement 1,3,15,ZXY5,DN,lire,VRAI,Enregistrement 2,1,0
+266,26,undefined,VRAI,Enregistrement 1,5,11,IND9,DN,lire,VRAI,Enregistrement 2,1,0
+267,26,undefined,VRAI,Enregistrement 2,3,19,BDC12,DN,lire,VRAI,Enregistrement 2,1,1
+268,26,undefined,VRAI,Enregistrement 1,4,31,JLR1,DN,lire,VRAI,Enregistrement 2,1,0
+269,27,undefined,FAUX,Enregistrement 1,3,19,QNS18,DN,manger,FAUX,Enregistrement 2,1,0
+270,27,undefined,FAUX,Enregistrement 1,3,23,IND9,DN,manger,FAUX,Enregistrement 2,1,0
+271,27,undefined,FAUX,Enregistrement 2,4,31,ZXY5,DN,manger,FAUX,Enregistrement 2,1,1
+272,27,undefined,FAUX,Enregistrement 2,3,11,JLR1,DN,manger,FAUX,Enregistrement 2,1,1
+273,27,undefined,FAUX,Enregistrement 1,4,19,CFJ15,DN,manger,FAUX,Enregistrement 2,1,0
+274,27,undefined,FAUX,Enregistrement 1,5,31,BDC12,DN,manger,FAUX,Enregistrement 2,1,0
+275,27,undefined,FAUX,Enregistrement 1,3,11,ZYC8,DN,manger,FAUX,Enregistrement 2,1,0
+276,27,undefined,FAUX,Enregistrement 1,3,35,ABY16,DN,manger,FAUX,Enregistrement 2,1,0
+277,27,undefined,FAUX,Enregistrement 2,5,31,NCR14,DN,manger,FAUX,Enregistrement 2,1,1
+278,28,undefined,VRAI,Enregistrement 1,2,27,JLR1,DN,voir,VRAI,Enregistrement 2,1,0
+279,28,undefined,VRAI,Enregistrement 2,5,19,NCR14,DN,voir,VRAI,Enregistrement 2,1,1
+280,28,undefined,FAUX,Enregistrement 2,3,35,BDC12,DN,voir,VRAI,Enregistrement 2,0,1
+281,28,undefined,FAUX,Enregistrement 1,3,31,ABY16,DN,voir,VRAI,Enregistrement 2,0,0
+282,28,undefined,VRAI,Enregistrement 1,5,11,YUF17,DN,voir,VRAI,Enregistrement 2,1,0
+283,28,undefined,VRAI,Enregistrement 2,5,31,IND9,DN,voir,VRAI,Enregistrement 2,1,1
+284,28,undefined,VRAI,Enregistrement 2,3,23,QNS18,DN,voir,VRAI,Enregistrement 2,1,1
+285,28,undefined,VRAI,Enregistrement 2,5,31,CFJ15,DN,voir,VRAI,Enregistrement 2,1,1
+286,28,undefined,VRAI,Enregistrement 2,4,27,ZXY5,DN,voir,VRAI,Enregistrement 2,1,1
+287,28,undefined,FAUX,Enregistrement 2,3,15,ZYC8,DN,voir,VRAI,Enregistrement 2,0,1
+288,28,undefined,VRAI,Enregistrement 2,4,11,LYB6,DN,voir,VRAI,Enregistrement 2,1,1
+289,29,undefined,FAUX,Enregistrement 1,3,10,TAO36,All not,aimer,FAUX,Enregistrement 1,1,1
+290,29,undefined,FAUX,Enregistrement 2,2,14,TVY31,All not,aimer,FAUX,Enregistrement 1,1,0
+291,29,undefined,VRAI,Enregistrement 1,3,30,BJT30,All not,aimer,FAUX,Enregistrement 1,0,1
+292,29,undefined,FAUX,Enregistrement 1,3,34,UUA3,All not,aimer,FAUX,Enregistrement 1,1,1
+293,29,undefined,VRAI,Enregistrement 2,4,14,WXS7,All not,aimer,FAUX,Enregistrement 1,0,0
+294,29,undefined,FAUX,Enregistrement 2,5,10,IEI16,All not,aimer,FAUX,Enregistrement 1,1,0
+295,29,undefined,FAUX,Enregistrement 2,3,10,WZJ26,All not,aimer,FAUX,Enregistrement 1,1,0
+296,29,undefined,FAUX,Enregistrement 2,4,10,LVE32,All not,aimer,FAUX,Enregistrement 1,1,0
+297,29,undefined,VRAI,Enregistrement 2,1,22,EQH1,All not,aimer,FAUX,Enregistrement 1,0,0
+298,29,undefined,FAUX,Enregistrement 1,5,18,GZM25,All not,aimer,FAUX,Enregistrement 1,1,1
+299,29,undefined,FAUX,Enregistrement 2,2,30,BSW19,All not,aimer,FAUX,Enregistrement 1,1,0
+300,29,undefined,FAUX,Enregistrement 2,5,18,QCG14,All not,aimer,FAUX,Enregistrement 1,1,0
+301,29,undefined,VRAI,Enregistrement 2,4,18,NLP40,All not,aimer,FAUX,Enregistrement 1,0,0
+302,29,undefined,FAUX,Enregistrement 1,2,10,ZBB23,All not,aimer,FAUX,Enregistrement 1,1,1
+303,29,undefined,VRAI,Enregistrement 1,4,22,VBJ34,All not,aimer,FAUX,Enregistrement 1,0,1
+304,29,undefined,FAUX,Enregistrement 1,3,18,XHJ4,All not,aimer,FAUX,Enregistrement 1,1,1
+305,29,undefined,FAUX,undefined,2,22,CCU15,All not,aimer,FAUX,Enregistrement 1,1,0
+306,3,undefined,VRAI,Enregistrement 1,1,21,BIL13,NC,dire,VRAI,Enregistrement 1,1,1
+307,3,undefined,VRAI,Enregistrement 2,1,9,IED39,NC,dire,VRAI,Enregistrement 1,1,0
+308,3,undefined,VRAI,Enregistrement 1,3,13,ZBB23,NC,dire,VRAI,Enregistrement 1,1,1
+309,3,undefined,VRAI,Enregistrement 1,3,17,BSW19,NC,dire,VRAI,Enregistrement 1,1,1
+310,3,undefined,VRAI,Enregistrement 1,1,9,AEX2,NC,dire,VRAI,Enregistrement 1,1,1
+311,3,undefined,VRAI,Enregistrement 1,3,13,NLP40,NC,dire,VRAI,Enregistrement 1,1,1
+312,3,undefined,VRAI,Enregistrement 1,4,21,WXS7,NC,dire,VRAI,Enregistrement 1,1,1
+313,3,undefined,VRAI,Enregistrement 1,3,29,VBJ34,NC,dire,VRAI,Enregistrement 1,1,1
+314,3,undefined,VRAI,Enregistrement 1,4,21,IEI16,NC,dire,VRAI,Enregistrement 1,1,1
+315,3,undefined,VRAI,Enregistrement 1,5,17,LVE32,NC,dire,VRAI,Enregistrement 1,1,1
+316,3,undefined,FAUX,Enregistrement 2,3,25,CCU15,NC,dire,VRAI,Enregistrement 1,0,0
+317,3,undefined,VRAI,Enregistrement 2,3,13,EQH1,NC,dire,VRAI,Enregistrement 1,1,0
+318,3,undefined,VRAI,Enregistrement 1,1,33,UUA3,NC,dire,VRAI,Enregistrement 1,1,1
+319,3,undefined,VRAI,Enregistrement 1,3,25,TAO36,NC,dire,VRAI,Enregistrement 1,1,1
+320,3,undefined,VRAI,Enregistrement 2,5,17,QCG14,NC,dire,VRAI,Enregistrement 1,1,0
+321,3,undefined,VRAI,Enregistrement 1,5,17,BJT30,NC,dire,VRAI,Enregistrement 1,1,1
+322,3,undefined,VRAI,Enregistrement 1,3,21,XHJ4,NC,dire,VRAI,Enregistrement 1,1,1
+323,3,undefined,VRAI,Enregistrement 2,1,29,TVY31,NC,dire,VRAI,Enregistrement 1,1,0
+324,3,undefined,VRAI,Enregistrement 1,4,9,OLT28,NC,dire,VRAI,Enregistrement 1,1,1
+325,30,undefined,FAUX,Enregistrement 2,5,34,QCG14,All not,boire,FAUX,Enregistrement 1,1,0
+326,30,undefined,FAUX,Enregistrement 1,2,34,XHJ4,All not,boire,FAUX,Enregistrement 1,1,1
+327,30,undefined,FAUX,Enregistrement 1,1,22,BIL13,All not,boire,FAUX,Enregistrement 1,1,1
+328,30,undefined,FAUX,Enregistrement 1,2,10,AEX2,All not,boire,FAUX,Enregistrement 1,1,1
+329,30,undefined,FAUX,Enregistrement 2,2,34,LVE32,All not,boire,FAUX,Enregistrement 1,1,0
+330,30,undefined,VRAI,Enregistrement 1,2,10,NLP40,All not,boire,FAUX,Enregistrement 1,0,1
+331,30,undefined,FAUX,Enregistrement 1,2,10,GZM25,All not,boire,FAUX,Enregistrement 1,1,1
+332,30,undefined,FAUX,Enregistrement 1,1,10,HYE38,All not,boire,FAUX,Enregistrement 1,1,1
+333,30,undefined,VRAI,Enregistrement 2,1,30,CCU15,All not,boire,FAUX,Enregistrement 1,0,0
+334,30,undefined,FAUX,Enregistrement 2,3,26,UUA3,All not,boire,FAUX,Enregistrement 1,1,0
+335,30,undefined,FAUX,Enregistrement 2,2,14,BSW19,All not,boire,FAUX,Enregistrement 1,1,0
+336,30,undefined,FAUX,Enregistrement 2,1,26,ZBB23,All not,boire,FAUX,Enregistrement 1,1,0
+337,30,undefined,FAUX,Enregistrement 2,1,18,VBJ34,All not,boire,FAUX,Enregistrement 1,1,0
+338,30,undefined,FAUX,Enregistrement 1,1,10,EQH1,All not,boire,FAUX,Enregistrement 1,1,1
+339,30,undefined,FAUX,Enregistrement 2,3,14,TAO36,All not,boire,FAUX,Enregistrement 1,1,0
+340,30,undefined,FAUX,Enregistrement 1,1,30,TVY31,All not,boire,FAUX,Enregistrement 1,1,1
+341,30,undefined,FAUX,Enregistrement 2,3,34,WXS7,All not,boire,FAUX,Enregistrement 1,1,0
+342,30,undefined,VRAI,Enregistrement 1,5,30,IEI16,All not,boire,FAUX,Enregistrement 1,0,1
+343,30,undefined,FAUX,Enregistrement 2,5,10,BJT30,All not,boire,FAUX,Enregistrement 1,1,0
+344,31,undefined,FAUX,Enregistrement 2,2,10,OJD8,All not,dire,VRAI,Enregistrement 1,0,0
+345,31,undefined,VRAI,Enregistrement 2,2,22,BSW19,All not,dire,VRAI,Enregistrement 1,1,0
+346,31,undefined,VRAI,Enregistrement 2,5,18,OLT28,All not,dire,VRAI,Enregistrement 1,1,0
+347,31,undefined,VRAI,Enregistrement 2,5,10,QCG14,All not,dire,VRAI,Enregistrement 1,1,0
+348,31,undefined,VRAI,Enregistrement 2,4,34,NLP40,All not,dire,VRAI,Enregistrement 1,1,0
+349,31,undefined,VRAI,Enregistrement 2,3,22,ZBB23,All not,dire,VRAI,Enregistrement 1,1,0
+350,31,undefined,VRAI,Enregistrement 1,2,18,CCU15,All not,dire,VRAI,Enregistrement 1,1,1
+351,31,undefined,FAUX,Enregistrement 1,3,18,WXS7,All not,dire,VRAI,Enregistrement 1,0,1
+352,31,undefined,VRAI,Enregistrement 1,2,22,XHJ4,All not,dire,VRAI,Enregistrement 1,1,1
+353,31,undefined,VRAI,Enregistrement 1,3,34,TVY31,All not,dire,VRAI,Enregistrement 1,1,1
+354,31,undefined,FAUX,Enregistrement 2,3,34,BJT30,All not,dire,VRAI,Enregistrement 1,0,0
+355,31,undefined,VRAI,Enregistrement 1,1,22,AEX2,All not,dire,VRAI,Enregistrement 1,1,1
+356,31,undefined,VRAI,Enregistrement 1,4,18,IEI16,All not,dire,VRAI,Enregistrement 1,1,1
+357,31,undefined,VRAI,Enregistrement 1,2,14,UUA3,All not,dire,VRAI,Enregistrement 1,1,1
+358,31,undefined,VRAI,Enregistrement 1,1,18,EQH1,All not,dire,VRAI,Enregistrement 1,1,1
+359,31,undefined,VRAI,Enregistrement 2,4,18,IED39,All not,dire,VRAI,Enregistrement 1,1,0
+360,31,undefined,FAUX,Enregistrement 2,3,10,VBJ34,All not,dire,VRAI,Enregistrement 1,0,0
+361,31,undefined,VRAI,Enregistrement 1,5,26,LVE32,All not,dire,VRAI,Enregistrement 1,1,1
+362,31,undefined,FAUX,Enregistrement 2,5,34,TAO36,All not,dire,VRAI,Enregistrement 1,0,0
+363,32,undefined,VRAI,Enregistrement 2,3,22,OLT28,All not,faire,FAUX,Enregistrement 1,0,0
+364,32,undefined,FAUX,Enregistrement 2,3,30,ZBB23,All not,faire,FAUX,Enregistrement 1,1,0
+365,32,undefined,FAUX,Enregistrement 1,3,26,TAO36,All not,faire,FAUX,Enregistrement 1,1,1
+366,32,undefined,FAUX,Enregistrement 2,2,26,XHJ4,All not,faire,FAUX,Enregistrement 1,1,0
+367,32,undefined,FAUX,Enregistrement 1,1,30,UUA3,All not,faire,FAUX,Enregistrement 1,1,1
+368,32,undefined,FAUX,Enregistrement 1,2,10,IED39,All not,faire,FAUX,Enregistrement 1,1,1
+369,32,undefined,FAUX,Enregistrement 2,5,22,GZM25,All not,faire,FAUX,Enregistrement 1,1,0
+370,32,undefined,FAUX,Enregistrement 2,4,22,WXS7,All not,faire,FAUX,Enregistrement 1,1,0
+371,32,undefined,FAUX,Enregistrement 1,1,30,EQH1,All not,faire,FAUX,Enregistrement 1,1,1
+372,32,undefined,FAUX,Enregistrement 2,5,22,QCG14,All not,faire,FAUX,Enregistrement 1,1,0
+373,32,undefined,FAUX,Enregistrement 2,4,14,CCU15,All not,faire,FAUX,Enregistrement 1,1,0
+374,32,undefined,FAUX,Enregistrement 1,2,18,BSW19,All not,faire,FAUX,Enregistrement 1,1,1
+375,32,undefined,FAUX,Enregistrement 1,1,26,AEX2,All not,faire,FAUX,Enregistrement 1,1,1
+376,32,undefined,FAUX,Enregistrement 2,5,22,IEI16,All not,faire,FAUX,Enregistrement 1,1,0
+377,32,undefined,FAUX,Enregistrement 1,3,10,NCP30,All not,faire,FAUX,Enregistrement 1,1,1
+378,32,undefined,FAUX,Enregistrement 1,3,10,FCP17,All not,faire,FAUX,Enregistrement 1,1,1
+379,32,undefined,FAUX,Enregistrement 2,5,30,VBJ34,All not,faire,FAUX,Enregistrement 1,1,0
+380,32,undefined,FAUX,Enregistrement 1,1,26,BIL13,All not,faire,FAUX,Enregistrement 1,1,1
+381,32,undefined,FAUX,Enregistrement 1,4,26,NLP40,All not,faire,FAUX,Enregistrement 1,1,1
+382,32,undefined,FAUX,Enregistrement 2,2,18,TVY31,All not,faire,FAUX,Enregistrement 1,1,0
+383,32,undefined,FAUX,Enregistrement 2,5,14,BJT30,All not,faire,FAUX,Enregistrement 1,1,0
+384,32,undefined,FAUX,Enregistrement 2,2,14,LVE32,All not,faire,FAUX,Enregistrement 1,1,0
+385,33,undefined,FAUX,Enregistrement 1,1,26,TVY31,All not,lire,FAUX,Enregistrement 1,1,1
+386,33,undefined,FAUX,Enregistrement 2,2,30,LVE32,All not,lire,FAUX,Enregistrement 1,1,0
+387,33,undefined,FAUX,Enregistrement 1,5,34,IEI16,All not,lire,FAUX,Enregistrement 1,1,1
+388,33,undefined,FAUX,Enregistrement 1,1,10,BSW19,All not,lire,FAUX,Enregistrement 1,1,1
+389,33,undefined,FAUX,Enregistrement 2,5,22,BJT30,All not,lire,FAUX,Enregistrement 1,1,0
+390,33,undefined,FAUX,undefined,2,26,CCU15,All not,lire,FAUX,Enregistrement 1,1,0
+391,33,undefined,FAUX,Enregistrement 2,1,34,EQH1,All not,lire,FAUX,Enregistrement 1,1,0
+392,33,undefined,FAUX,Enregistrement 2,5,10,WXS7,All not,lire,FAUX,Enregistrement 1,1,0
+393,33,undefined,FAUX,Enregistrement 1,4,14,GZM25,All not,lire,FAUX,Enregistrement 1,1,1
+394,33,undefined,FAUX,Enregistrement 2,3,18,TAO36,All not,lire,FAUX,Enregistrement 1,1,0
+395,33,undefined,FAUX,Enregistrement 1,1,18,BIL13,All not,lire,FAUX,Enregistrement 1,1,1
+396,33,undefined,FAUX,Enregistrement 2,5,14,OLT28,All not,lire,FAUX,Enregistrement 1,1,0
+397,33,undefined,FAUX,Enregistrement 2,4,14,NLP40,All not,lire,FAUX,Enregistrement 1,1,0
+398,33,undefined,VRAI,Enregistrement 1,2,14,XHJ4,All not,lire,FAUX,Enregistrement 1,0,1
+399,33,undefined,FAUX,Enregistrement 1,1,34,ZBB23,All not,lire,FAUX,Enregistrement 1,1,1
+400,33,undefined,FAUX,Enregistrement 2,1,10,UUA3,All not,lire,FAUX,Enregistrement 1,1,0
+401,33,undefined,FAUX,Enregistrement 1,1,18,AEX2,All not,lire,FAUX,Enregistrement 1,1,1
+402,33,undefined,FAUX,Enregistrement 2,5,14,QCG14,All not,lire,FAUX,Enregistrement 1,1,0
+403,33,undefined,FAUX,Enregistrement 2,2,14,VBJ34,All not,lire,FAUX,Enregistrement 1,1,0
+404,34,undefined,FAUX,Enregistrement 1,3,30,TAO36,All not,manger,FAUX,Enregistrement 1,1,1
+405,34,undefined,FAUX,Enregistrement 2,2,30,WXS7,All not,manger,FAUX,Enregistrement 1,1,0
+406,34,undefined,VRAI,Enregistrement 1,3,26,BJT30,All not,manger,FAUX,Enregistrement 1,0,1
+407,34,undefined,FAUX,Enregistrement 2,4,10,REA6,All not,manger,FAUX,Enregistrement 1,1,0
+408,34,undefined,VRAI,Enregistrement 2,4,22,NLP40,All not,manger,FAUX,Enregistrement 1,0,0
+409,34,undefined,FAUX,Enregistrement 2,1,18,ZBB23,All not,manger,FAUX,Enregistrement 1,1,0
+410,34,undefined,FAUX,Enregistrement 2,3,22,LVE32,All not,manger,FAUX,Enregistrement 1,1,0
+411,34,undefined,FAUX,Enregistrement 1,1,14,BIL13,All not,manger,FAUX,Enregistrement 1,1,1
+412,34,undefined,FAUX,Enregistrement 2,2,10,TVY31,All not,manger,FAUX,Enregistrement 1,1,0
+413,34,undefined,FAUX,Enregistrement 2,1,26,VBJ34,All not,manger,FAUX,Enregistrement 1,1,0
+414,34,undefined,FAUX,Enregistrement 2,5,14,IEI16,All not,manger,FAUX,Enregistrement 1,1,0
+415,34,undefined,FAUX,Enregistrement 2,5,26,QCG14,All not,manger,FAUX,Enregistrement 1,1,0
+416,34,undefined,FAUX,undefined,2,34,CCU15,All not,manger,FAUX,Enregistrement 1,1,0
+417,34,undefined,VRAI,Enregistrement 2,1,26,EQH1,All not,manger,FAUX,Enregistrement 1,0,0
+418,34,undefined,FAUX,Enregistrement 2,4,18,UUA3,All not,manger,FAUX,Enregistrement 1,1,0
+419,34,undefined,FAUX,Enregistrement 2,4,30,XHJ4,All not,manger,FAUX,Enregistrement 1,1,0
+420,34,undefined,FAUX,Enregistrement 2,3,26,BSW19,All not,manger,FAUX,Enregistrement 1,1,0
+421,35,undefined,FAUX,Enregistrement 1,4,26,WXS7,All not,voir,VRAI,Enregistrement 1,0,1
+422,35,undefined,VRAI,Enregistrement 1,4,18,LVE32,All not,voir,VRAI,Enregistrement 1,1,1
+423,35,undefined,VRAI,Enregistrement 1,1,14,AEX2,All not,voir,VRAI,Enregistrement 1,1,1
+424,35,undefined,FAUX,Enregistrement 2,4,30,NLP40,All not,voir,VRAI,Enregistrement 1,0,0
+425,35,undefined,VRAI,Enregistrement 1,3,14,ZBB23,All not,voir,VRAI,Enregistrement 1,1,1
+426,35,undefined,VRAI,Enregistrement 1,5,10,OLT28,All not,voir,VRAI,Enregistrement 1,1,1
+427,35,undefined,VRAI,Enregistrement 1,3,22,TAO36,All not,voir,VRAI,Enregistrement 1,1,1
+428,35,undefined,VRAI,Enregistrement 2,3,34,BSW19,All not,voir,VRAI,Enregistrement 1,1,0
+429,35,undefined,VRAI,undefined,3,10,CCU15,All not,voir,VRAI,Enregistrement 1,1,0
+430,35,undefined,VRAI,Enregistrement 2,2,26,IEI16,All not,voir,VRAI,Enregistrement 1,1,0
+431,35,undefined,VRAI,Enregistrement 2,2,22,UUA3,All not,voir,VRAI,Enregistrement 1,1,0
+432,35,undefined,VRAI,Enregistrement 2,2,10,XHJ4,All not,voir,VRAI,Enregistrement 1,1,0
+433,35,undefined,VRAI,Enregistrement 2,5,18,BJT30,All not,voir,VRAI,Enregistrement 1,1,0
+434,35,undefined,VRAI,Enregistrement 1,1,22,TVY31,All not,voir,VRAI,Enregistrement 1,1,1
+435,35,undefined,VRAI,Enregistrement 1,1,14,IED39,All not,voir,VRAI,Enregistrement 1,1,1
+436,35,undefined,VRAI,Enregistrement 2,5,30,QCG14,All not,voir,VRAI,Enregistrement 1,1,0
+437,35,undefined,FAUX,Enregistrement 1,2,14,EQH1,All not,voir,VRAI,Enregistrement 1,0,1
+438,35,undefined,VRAI,Enregistrement 1,1,10,BIL13,All not,voir,VRAI,Enregistrement 1,1,1
+439,35,undefined,VRAI,Enregistrement 1,3,34,VBJ34,All not,voir,VRAI,Enregistrement 1,1,1
+440,36,undefined,FAUX,Enregistrement 2,5,30,ZYC8,All not,aimer,FAUX,Enregistrement 1,1,0
+441,36,undefined,FAUX,Enregistrement 1,3,18,ZXY5,All not,aimer,FAUX,Enregistrement 1,1,1
+442,36,undefined,FAUX,Enregistrement 1,2,10,JLR1,All not,aimer,FAUX,Enregistrement 1,1,1
+443,36,undefined,FAUX,Enregistrement 2,1,18,QNS18,All not,aimer,FAUX,Enregistrement 1,1,0
+444,36,undefined,VRAI,Enregistrement 2,5,10,YUF17,All not,aimer,FAUX,Enregistrement 1,0,0
+445,36,undefined,FAUX,Enregistrement 2,3,18,CFJ15,All not,aimer,FAUX,Enregistrement 1,1,0
+446,36,undefined,VRAI,Enregistrement 1,3,26,ABY16,All not,aimer,FAUX,Enregistrement 1,0,1
+447,36,undefined,FAUX,Enregistrement 1,3,26,BDC12,All not,aimer,FAUX,Enregistrement 1,1,1
+448,36,undefined,FAUX,Enregistrement 2,3,34,IND9,All not,aimer,FAUX,Enregistrement 1,1,0
+449,36,undefined,FAUX,Enregistrement 2,5,22,NCR14,All not,aimer,FAUX,Enregistrement 1,1,0
+450,37,undefined,FAUX,Enregistrement 1,3,30,JLR1,All not,boire,FAUX,Enregistrement 1,1,1
+451,37,undefined,VRAI,Enregistrement 2,5,22,ZYC8,All not,boire,FAUX,Enregistrement 1,0,0
+452,37,undefined,VRAI,Enregistrement 2,5,14,IND9,All not,boire,FAUX,Enregistrement 1,0,0
+453,37,undefined,FAUX,Enregistrement 1,5,14,NCR14,All not,boire,FAUX,Enregistrement 1,1,1
+454,37,undefined,FAUX,Enregistrement 1,3,14,ABY16,All not,boire,FAUX,Enregistrement 1,1,1
+455,37,undefined,VRAI,Enregistrement 2,5,26,CFJ15,All not,boire,FAUX,Enregistrement 1,0,0
+456,37,undefined,VRAI,Enregistrement 1,3,30,BDC12,All not,boire,FAUX,Enregistrement 1,0,1
+457,37,undefined,FAUX,Enregistrement 1,3,14,WPX3,All not,boire,FAUX,Enregistrement 1,1,1
+458,37,undefined,FAUX,Enregistrement 1,5,14,ZXY5,All not,boire,FAUX,Enregistrement 1,1,1
+459,37,undefined,VRAI,Enregistrement 2,1,26,QNS18,All not,boire,FAUX,Enregistrement 1,0,0
+460,38,undefined,FAUX,Enregistrement 1,4,26,JLR1,All not,dire,VRAI,Enregistrement 1,0,1
+461,38,undefined,VRAI,Enregistrement 2,5,22,ZXY5,All not,dire,VRAI,Enregistrement 1,1,0
+462,38,undefined,FAUX,Enregistrement 1,4,10,IND9,All not,dire,VRAI,Enregistrement 1,0,1
+463,38,undefined,FAUX,Enregistrement 1,4,30,CFJ15,All not,dire,VRAI,Enregistrement 1,0,1
+464,38,undefined,VRAI,Enregistrement 1,3,10,LYB6,All not,dire,VRAI,Enregistrement 1,1,1
+465,38,undefined,VRAI,Enregistrement 2,5,14,ZYC8,All not,dire,VRAI,Enregistrement 1,1,0
+466,38,undefined,VRAI,Enregistrement 1,5,34,BDC12,All not,dire,VRAI,Enregistrement 1,1,1
+467,38,undefined,FAUX,Enregistrement 2,1,34,QNS18,All not,dire,VRAI,Enregistrement 1,0,0
+468,38,undefined,VRAI,Enregistrement 1,3,10,ABY16,All not,dire,VRAI,Enregistrement 1,1,1
+469,38,undefined,VRAI,Enregistrement 1,1,10,NCR14,All not,dire,VRAI,Enregistrement 1,1,1
+470,39,undefined,FAUX,Enregistrement 1,5,26,ZXY5,All not,faire,FAUX,Enregistrement 1,1,1
+471,39,undefined,FAUX,Enregistrement 1,3,22,ABY16,All not,faire,FAUX,Enregistrement 1,1,1
+472,39,undefined,FAUX,Enregistrement 1,3,22,JLR1,All not,faire,FAUX,Enregistrement 1,1,1
+473,39,undefined,FAUX,Enregistrement 2,5,26,ZYC8,All not,faire,FAUX,Enregistrement 1,1,0
+474,39,undefined,FAUX,Enregistrement 2,5,34,CFJ15,All not,faire,FAUX,Enregistrement 1,1,0
+475,39,undefined,FAUX,Enregistrement 2,3,22,BDC12,All not,faire,FAUX,Enregistrement 1,1,0
+476,39,undefined,FAUX,Enregistrement 2,5,34,NCR14,All not,faire,FAUX,Enregistrement 1,1,0
+477,39,undefined,FAUX,Enregistrement 2,1,30,QNS18,All not,faire,FAUX,Enregistrement 1,1,0
+478,39,undefined,FAUX,Enregistrement 1,4,18,IND9,All not,faire,FAUX,Enregistrement 1,1,1
+479,4,undefined,VRAI,Enregistrement 1,2,13,VBJ34,NC,faire,VRAI,Enregistrement 1,1,1
+480,4,undefined,VRAI,Enregistrement 2,4,17,AEX2,NC,faire,VRAI,Enregistrement 1,1,0
+481,4,undefined,VRAI,Enregistrement 2,4,33,TVY31,NC,faire,VRAI,Enregistrement 1,1,0
+482,4,undefined,VRAI,Enregistrement 2,5,13,TAO36,NC,faire,VRAI,Enregistrement 1,1,0
+483,4,undefined,VRAI,Enregistrement 2,5,17,IEI16,NC,faire,VRAI,Enregistrement 1,1,0
+484,4,undefined,VRAI,Enregistrement 2,3,21,BSW19,NC,faire,VRAI,Enregistrement 1,1,0
+485,4,undefined,VRAI,Enregistrement 2,5,29,BJT30,NC,faire,VRAI,Enregistrement 1,1,0
+486,4,undefined,VRAI,Enregistrement 1,2,17,NLP40,NC,faire,VRAI,Enregistrement 1,1,1
+487,4,undefined,VRAI,Enregistrement 2,4,25,WXS7,NC,faire,VRAI,Enregistrement 1,1,0
+488,4,undefined,VRAI,Enregistrement 2,4,29,CCU15,NC,faire,VRAI,Enregistrement 1,1,0
+489,4,undefined,VRAI,Enregistrement 2,3,9,XHJ4,NC,faire,VRAI,Enregistrement 1,1,0
+490,4,undefined,VRAI,Enregistrement 2,4,29,LVE32,NC,faire,VRAI,Enregistrement 1,1,0
+491,4,undefined,VRAI,Enregistrement 2,4,29,QCG14,NC,faire,VRAI,Enregistrement 1,1,0
+492,4,undefined,VRAI,Enregistrement 2,2,25,ZBB23,NC,faire,VRAI,Enregistrement 1,1,0
+493,4,undefined,VRAI,Enregistrement 2,3,17,EQH1,NC,faire,VRAI,Enregistrement 1,1,0
+494,4,undefined,VRAI,Enregistrement 2,5,9,UUA3,NC,faire,VRAI,Enregistrement 1,1,0
+495,40,undefined,FAUX,Enregistrement 2,5,26,NCR14,All not,lire,FAUX,Enregistrement 1,1,0
+496,40,undefined,FAUX,Enregistrement 2,4,26,IND9,All not,lire,FAUX,Enregistrement 1,1,0
+497,40,undefined,FAUX,Enregistrement 1,3,30,ABY16,All not,lire,FAUX,Enregistrement 1,1,1
+498,40,undefined,FAUX,Enregistrement 1,1,22,QNS18,All not,lire,FAUX,Enregistrement 1,1,1
+499,40,undefined,FAUX,Enregistrement 2,3,18,JLR1,All not,lire,FAUX,Enregistrement 1,1,0
+500,40,undefined,VRAI,Enregistrement 1,4,18,BDC12,All not,lire,FAUX,Enregistrement 1,0,1
+501,40,undefined,FAUX,Enregistrement 1,5,10,ZYC8,All not,lire,FAUX,Enregistrement 1,1,1
+502,40,undefined,FAUX,Enregistrement 2,5,30,ZXY5,All not,lire,FAUX,Enregistrement 1,1,0
+503,40,undefined,VRAI,Enregistrement 2,4,14,CFJ15,All not,lire,FAUX,Enregistrement 1,0,0
+504,41,undefined,FAUX,Enregistrement 1,3,18,ABY16,All not,manger,FAUX,Enregistrement 1,1,1
+505,41,undefined,FAUX,Enregistrement 2,5,30,NCR14,All not,manger,FAUX,Enregistrement 1,1,0
+506,41,undefined,FAUX,Enregistrement 2,5,18,ZYC8,All not,manger,FAUX,Enregistrement 1,1,0
+507,41,undefined,FAUX,Enregistrement 1,4,10,ZXY5,All not,manger,FAUX,Enregistrement 1,1,1
+508,41,undefined,FAUX,Enregistrement 2,3,30,IND9,All not,manger,FAUX,Enregistrement 1,1,0
+509,41,undefined,FAUX,Enregistrement 2,1,10,QNS18,All not,manger,FAUX,Enregistrement 1,1,0
+510,41,undefined,FAUX,Enregistrement 1,2,34,JLR1,All not,manger,FAUX,Enregistrement 1,1,1
+511,41,undefined,FAUX,Enregistrement 1,5,10,BDC12,All not,manger,FAUX,Enregistrement 1,1,1
+512,41,undefined,VRAI,Enregistrement 2,4,22,CFJ15,All not,manger,FAUX,Enregistrement 1,0,0
+513,41,undefined,FAUX,Enregistrement 2,1,18,WPX3,All not,manger,FAUX,Enregistrement 1,1,0
+514,42,undefined,FAUX,Enregistrement 2,3,14,BDC12,All not,voir,VRAI,Enregistrement 1,0,0
+515,42,undefined,FAUX,Enregistrement 1,5,18,NCR14,All not,voir,VRAI,Enregistrement 1,0,1
+516,42,undefined,FAUX,Enregistrement 1,2,22,IND9,All not,voir,VRAI,Enregistrement 1,0,1
+517,42,undefined,VRAI,Enregistrement 1,3,10,CFJ15,All not,voir,VRAI,Enregistrement 1,1,1
+518,42,undefined,VRAI,Enregistrement 1,3,34,ABY16,All not,voir,VRAI,Enregistrement 1,1,1
+519,42,undefined,VRAI,Enregistrement 2,5,34,ZYC8,All not,voir,VRAI,Enregistrement 1,1,0
+520,42,undefined,VRAI,Enregistrement 1,5,34,ZXY5,All not,voir,VRAI,Enregistrement 1,1,1
+521,42,undefined,VRAI,Enregistrement 2,1,14,JLR1,All not,voir,VRAI,Enregistrement 1,1,0
+522,42,undefined,VRAI,Enregistrement 1,1,14,QNS18,All not,voir,VRAI,Enregistrement 1,1,1
+523,42,undefined,VRAI,Enregistrement 1,1,10,WPX3,All not,voir,VRAI,Enregistrement 1,1,1
+524,43,undefined,VRAI,Enregistrement 2,4,12,REA6,Not All,aimer,VRAI,Enregistrement 2,1,1
+525,43,undefined,VRAI,Enregistrement 2,4,12,YUF17,Not All,aimer,VRAI,Enregistrement 2,1,1
+526,43,undefined,VRAI,Enregistrement 1,3,12,XHJ4,Not All,aimer,VRAI,Enregistrement 2,1,0
+527,43,undefined,FAUX,Enregistrement 2,5,20,ZYC8,Not All,aimer,VRAI,Enregistrement 2,0,1
+528,43,undefined,FAUX,Enregistrement 2,5,24,QCG14,Not All,aimer,VRAI,Enregistrement 2,0,1
+529,43,undefined,VRAI,Enregistrement 1,1,32,JLR1,Not All,aimer,VRAI,Enregistrement 2,1,0
+530,43,undefined,VRAI,Enregistrement 2,3,16,WPX3,Not All,aimer,VRAI,Enregistrement 2,1,1
+531,43,undefined,VRAI,Enregistrement 1,4,24,ZXY5,Not All,aimer,VRAI,Enregistrement 2,1,0
+532,43,undefined,VRAI,Enregistrement 2,3,28,BJT30,Not All,aimer,VRAI,Enregistrement 2,1,1
+533,43,undefined,FAUX,Enregistrement 2,5,20,IEI16,Not All,aimer,VRAI,Enregistrement 2,0,1
+534,43,undefined,VRAI,Enregistrement 1,1,24,TVY31,Not All,aimer,VRAI,Enregistrement 2,1,0
+535,43,undefined,VRAI,Enregistrement 1,5,12,IND9,Not All,aimer,VRAI,Enregistrement 2,1,0
+536,43,undefined,VRAI,Enregistrement 1,1,12,QNS18,Not All,aimer,VRAI,Enregistrement 2,1,0
+537,43,undefined,FAUX,Enregistrement 2,5,24,NCR14,Not All,aimer,VRAI,Enregistrement 2,0,1
+538,43,undefined,VRAI,Enregistrement 1,3,20,UUA3,Not All,aimer,VRAI,Enregistrement 2,1,0
+539,43,undefined,VRAI,Enregistrement 2,1,16,EQH1,Not All,aimer,VRAI,Enregistrement 2,1,1
+540,43,undefined,VRAI,Enregistrement 1,5,24,LVE32,Not All,aimer,VRAI,Enregistrement 2,1,0
+541,43,undefined,FAUX,Enregistrement 2,2,28,BSW19,Not All,aimer,VRAI,Enregistrement 2,0,1
+542,43,undefined,VRAI,Enregistrement 2,3,36,TAO36,Not All,aimer,VRAI,Enregistrement 2,1,1
+543,43,undefined,VRAI,Enregistrement 1,3,16,ABY16,Not All,aimer,VRAI,Enregistrement 2,1,0
+544,43,undefined,VRAI,Enregistrement 2,2,32,VBJ34,Not All,aimer,VRAI,Enregistrement 2,1,1
+545,43,undefined,VRAI,Enregistrement 2,2,36,WXS7,Not All,aimer,VRAI,Enregistrement 2,1,1
+546,43,undefined,FAUX,Enregistrement 2,4,24,OLT28,Not All,aimer,VRAI,Enregistrement 2,0,1
+547,43,undefined,VRAI,Enregistrement 1,4,28,CFJ15,Not All,aimer,VRAI,Enregistrement 2,1,0
+548,43,undefined,VRAI,undefined,3,28,CCU15,Not All,aimer,VRAI,Enregistrement 2,1,0
+549,43,undefined,VRAI,Enregistrement 1,2,16,ZBB23,Not All,aimer,VRAI,Enregistrement 2,1,0
+550,43,undefined,VRAI,Enregistrement 2,4,24,NLP40,Not All,aimer,VRAI,Enregistrement 2,1,1
+551,43,undefined,FAUX,Enregistrement 1,3,16,BDC12,Not All,aimer,VRAI,Enregistrement 2,0,0
+552,44,undefined,VRAI,Enregistrement 1,1,12,IED39,Not All,boire,VRAI,Enregistrement 2,1,0
+553,44,undefined,VRAI,Enregistrement 1,1,20,ZBB23,Not All,boire,VRAI,Enregistrement 2,1,0
+554,44,undefined,FAUX,Enregistrement 1,1,12,AEX2,Not All,boire,VRAI,Enregistrement 2,0,0
+555,44,undefined,FAUX,Enregistrement 2,5,28,NCR14,Not All,boire,VRAI,Enregistrement 2,0,1
+556,44,undefined,VRAI,Enregistrement 1,5,12,IEI16,Not All,boire,VRAI,Enregistrement 2,1,0
+557,44,undefined,VRAI,Enregistrement 1,1,16,LVE32,Not All,boire,VRAI,Enregistrement 2,1,0
+558,44,undefined,VRAI,Enregistrement 1,3,24,CFJ15,Not All,boire,VRAI,Enregistrement 2,1,0
+559,44,undefined,VRAI,Enregistrement 2,1,36,TVY31,Not All,boire,VRAI,Enregistrement 2,1,1
+560,44,undefined,VRAI,Enregistrement 1,2,12,EQH1,Not All,boire,VRAI,Enregistrement 2,1,0
+561,44,undefined,VRAI,Enregistrement 2,1,36,VBJ34,Not All,boire,VRAI,Enregistrement 2,1,1
+562,44,undefined,FAUX,Enregistrement 2,5,32,QCG14,Not All,boire,VRAI,Enregistrement 2,0,1
+563,44,undefined,VRAI,Enregistrement 2,3,12,WXS7,Not All,boire,VRAI,Enregistrement 2,1,1
+564,44,undefined,VRAI,Enregistrement 1,4,32,ZXY5,Not All,boire,VRAI,Enregistrement 2,1,0
+565,44,undefined,VRAI,Enregistrement 1,2,16,NLP40,Not All,boire,VRAI,Enregistrement 2,1,0
+566,44,undefined,VRAI,Enregistrement 1,3,24,ABY16,Not All,boire,VRAI,Enregistrement 2,1,0
+567,44,undefined,FAUX,Enregistrement 1,1,32,XHJ4,Not All,boire,VRAI,Enregistrement 2,0,0
+568,44,undefined,VRAI,Enregistrement 1,2,36,IND9,Not All,boire,VRAI,Enregistrement 2,1,0
+569,44,undefined,VRAI,Enregistrement 1,1,12,BSW19,Not All,boire,VRAI,Enregistrement 2,1,0
+570,44,undefined,VRAI,Enregistrement 1,1,28,QNS18,Not All,boire,VRAI,Enregistrement 2,1,0
+571,44,undefined,VRAI,Enregistrement 1,5,12,BDC12,Not All,boire,VRAI,Enregistrement 2,1,0
+572,44,undefined,VRAI,undefined,1,32,CCU15,Not All,boire,VRAI,Enregistrement 2,1,0
+573,44,undefined,VRAI,Enregistrement 1,1,16,BIL13,Not All,boire,VRAI,Enregistrement 2,1,0
+574,44,undefined,VRAI,Enregistrement 2,3,12,ZYC8,Not All,boire,VRAI,Enregistrement 2,1,1
+575,44,undefined,VRAI,Enregistrement 1,2,36,UUA3,Not All,boire,VRAI,Enregistrement 2,1,0
+576,44,undefined,VRAI,Enregistrement 2,3,12,TAO36,Not All,boire,VRAI,Enregistrement 2,1,1
+577,44,undefined,FAUX,Enregistrement 2,5,16,OLT28,Not All,boire,VRAI,Enregistrement 2,0,1
+578,44,undefined,FAUX,Enregistrement 2,5,12,BJT30,Not All,boire,VRAI,Enregistrement 2,0,1
+579,44,undefined,VRAI,Enregistrement 1,2,28,JLR1,Not All,boire,VRAI,Enregistrement 2,1,0
+580,45,undefined,FAUX,Enregistrement 2,3,36,ZBB23,Not all,dire,FAUX,Enregistrement 2,1,1
+581,45,undefined,FAUX,Enregistrement 2,4,36,NLP40,Not all,dire,FAUX,Enregistrement 2,1,1
+582,45,undefined,FAUX,Enregistrement 1,2,24,BSW19,Not all,dire,FAUX,Enregistrement 2,1,0
+583,45,undefined,FAUX,Enregistrement 1,3,12,GZM25,Not all,dire,FAUX,Enregistrement 2,1,0
+584,45,undefined,FAUX,Enregistrement 2,3,36,XHJ4,Not all,dire,FAUX,Enregistrement 2,1,1
+585,45,undefined,FAUX,Enregistrement 1,5,32,CFJ15,Not all,dire,FAUX,Enregistrement 2,1,0
+586,45,undefined,FAUX,Enregistrement 2,2,12,TVY31,Not all,dire,FAUX,Enregistrement 2,1,1
+587,45,undefined,FAUX,Enregistrement 2,1,12,HYE38,Not all,dire,FAUX,Enregistrement 2,1,1
+588,45,undefined,FAUX,Enregistrement 2,5,16,TAO36,Not all,dire,FAUX,Enregistrement 2,1,1
+589,45,undefined,FAUX,Enregistrement 1,2,36,JLR1,Not all,dire,FAUX,Enregistrement 2,1,0
+590,45,undefined,FAUX,Enregistrement 2,5,16,IEI16,Not all,dire,FAUX,Enregistrement 2,1,1
+591,45,undefined,FAUX,Enregistrement 1,3,20,VBJ34,Not all,dire,FAUX,Enregistrement 2,1,0
+592,45,undefined,FAUX,Enregistrement 2,5,36,ZYC8,Not all,dire,FAUX,Enregistrement 2,1,1
+593,45,undefined,FAUX,Enregistrement 2,4,24,BJT30,Not all,dire,FAUX,Enregistrement 2,1,1
+594,45,undefined,FAUX,Enregistrement 1,1,24,EQH1,Not all,dire,FAUX,Enregistrement 2,1,0
+595,45,undefined,FAUX,Enregistrement 2,4,36,LVE32,Not all,dire,FAUX,Enregistrement 2,1,1
+596,45,undefined,FAUX,Enregistrement 1,5,32,BDC12,Not all,dire,FAUX,Enregistrement 2,1,0
+597,45,undefined,FAUX,Enregistrement 2,5,24,CCU15,Not all,dire,FAUX,Enregistrement 2,1,1
+598,45,undefined,FAUX,Enregistrement 2,5,32,NCR14,Not all,dire,FAUX,Enregistrement 2,1,1
+599,45,undefined,FAUX,Enregistrement 1,3,36,ABY16,Not all,dire,FAUX,Enregistrement 2,1,0
+600,45,undefined,FAUX,Enregistrement 2,5,28,QCG14,Not all,dire,FAUX,Enregistrement 2,1,1
+601,45,undefined,FAUX,Enregistrement 2,2,16,IED39,Not all,dire,FAUX,Enregistrement 2,1,1
+602,45,undefined,FAUX,Enregistrement 2,2,32,UUA3,Not all,dire,FAUX,Enregistrement 2,1,1
+603,45,undefined,FAUX,Enregistrement 2,4,12,ZXY5,Not all,dire,FAUX,Enregistrement 2,1,1
+604,45,undefined,FAUX,Enregistrement 1,4,28,IND9,Not all,dire,FAUX,Enregistrement 2,1,0
+605,45,undefined,FAUX,Enregistrement 2,3,32,WXS7,Not all,dire,FAUX,Enregistrement 2,1,1
+606,45,undefined,FAUX,Enregistrement 2,1,20,QNS18,Not all,dire,FAUX,Enregistrement 2,1,1
+607,45,undefined,FAUX,Enregistrement 1,1,20,AEX2,Not all,dire,FAUX,Enregistrement 2,1,0
+608,46,undefined,FAUX,Enregistrement 2,5,12,QCG14,Not All,faire,VRAI,Enregistrement 2,0,1
+609,46,undefined,VRAI,Enregistrement 2,5,36,IEI16,Not All,faire,VRAI,Enregistrement 2,1,1
+610,46,undefined,VRAI,Enregistrement 2,1,24,QNS18,Not All,faire,VRAI,Enregistrement 2,1,1
+611,46,undefined,FAUX,Enregistrement 2,3,20,OLT28,Not All,faire,VRAI,Enregistrement 2,0,1
+612,46,undefined,VRAI,Enregistrement 1,3,12,VBJ34,Not All,faire,VRAI,Enregistrement 2,1,0
+613,46,undefined,VRAI,Enregistrement 2,2,24,UUA3,Not All,faire,VRAI,Enregistrement 2,1,1
+614,46,undefined,VRAI,Enregistrement 1,1,28,BIL13,Not All,faire,VRAI,Enregistrement 2,1,0
+615,46,undefined,VRAI,Enregistrement 1,4,32,IND9,Not All,faire,VRAI,Enregistrement 2,1,0
+616,46,undefined,VRAI,Enregistrement 1,5,36,ZXY5,Not All,faire,VRAI,Enregistrement 2,1,0
+617,46,undefined,VRAI,Enregistrement 1,5,36,CFJ15,Not All,faire,VRAI,Enregistrement 2,1,0
+618,46,undefined,FAUX,Enregistrement 2,5,36,NCR14,Not All,faire,VRAI,Enregistrement 2,0,1
+619,46,undefined,VRAI,Enregistrement 1,4,20,WXS7,Not All,faire,VRAI,Enregistrement 2,1,0
+620,46,undefined,VRAI,Enregistrement 2,3,20,LVE32,Not All,faire,VRAI,Enregistrement 2,1,1
+621,46,undefined,VRAI,Enregistrement 1,2,28,TVY31,Not All,faire,VRAI,Enregistrement 2,1,0
+622,46,undefined,VRAI,Enregistrement 1,4,32,NLP40,Not All,faire,VRAI,Enregistrement 2,1,0
+623,46,undefined,VRAI,Enregistrement 2,1,20,EQH1,Not All,faire,VRAI,Enregistrement 2,1,1
+624,46,undefined,VRAI,Enregistrement 2,1,12,ZBB23,Not All,faire,VRAI,Enregistrement 2,1,1
+625,46,undefined,VRAI,Enregistrement 2,5,24,ZYC8,Not All,faire,VRAI,Enregistrement 2,1,1
+626,46,undefined,FAUX,Enregistrement 1,1,16,XHJ4,Not All,faire,VRAI,Enregistrement 2,0,0
+627,46,undefined,VRAI,Enregistrement 2,5,20,BJT30,Not All,faire,VRAI,Enregistrement 2,1,1
+628,46,undefined,VRAI,Enregistrement 1,2,20,JLR1,Not All,faire,VRAI,Enregistrement 2,1,0
+629,46,undefined,VRAI,Enregistrement 1,5,20,GZM25,Not All,faire,VRAI,Enregistrement 2,1,0
+630,46,undefined,VRAI,Enregistrement 2,3,24,TAO36,Not All,faire,VRAI,Enregistrement 2,1,1
+631,46,undefined,VRAI,Enregistrement 1,3,20,ABY16,Not All,faire,VRAI,Enregistrement 2,1,0
+632,46,undefined,VRAI,Enregistrement 1,3,20,CCU15,Not All,faire,VRAI,Enregistrement 2,1,0
+633,46,undefined,VRAI,Enregistrement 2,4,28,BDC12,Not All,faire,VRAI,Enregistrement 2,1,1
+634,46,undefined,VRAI,Enregistrement 1,3,32,BSW19,Not All,faire,VRAI,Enregistrement 2,1,0
+635,47,undefined,VRAI,Enregistrement 1,5,16,IND9,Not All,lire,VRAI,Enregistrement 2,1,0
+636,47,undefined,VRAI,Enregistrement 2,1,32,ZBB23,Not All,lire,VRAI,Enregistrement 2,1,1
+637,47,undefined,VRAI,Enregistrement 1,3,24,VBJ34,Not All,lire,VRAI,Enregistrement 2,1,0
+638,47,undefined,VRAI,Enregistrement 1,2,12,JLR1,Not All,lire,VRAI,Enregistrement 2,1,0
+639,47,undefined,VRAI,Enregistrement 1,3,32,ABY16,Not All,lire,VRAI,Enregistrement 2,1,0
+640,47,undefined,VRAI,Enregistrement 2,4,12,OLT28,Not All,lire,VRAI,Enregistrement 2,1,1
+641,47,undefined,FAUX,Enregistrement 1,5,16,NCR14,Not All,lire,VRAI,Enregistrement 2,0,0
+642,47,undefined,VRAI,Enregistrement 1,1,12,BIL13,Not All,lire,VRAI,Enregistrement 2,1,0
+643,47,undefined,VRAI,Enregistrement 1,1,12,UUA3,Not All,lire,VRAI,Enregistrement 2,1,0
+644,47,undefined,VRAI,Enregistrement 2,2,16,BSW19,Not All,lire,VRAI,Enregistrement 2,1,1
+645,47,undefined,VRAI,Enregistrement 1,1,32,TVY31,Not All,lire,VRAI,Enregistrement 2,1,0
+646,47,undefined,VRAI,undefined,2,36,CCU15,Not All,lire,VRAI,Enregistrement 2,1,0
+647,47,undefined,VRAI,Enregistrement 2,5,28,ZYC8,Not All,lire,VRAI,Enregistrement 2,1,1
+648,47,undefined,VRAI,Enregistrement 1,5,28,LVE32,Not All,lire,VRAI,Enregistrement 2,1,0
+649,47,undefined,VRAI,Enregistrement 1,3,24,WXS7,Not All,lire,VRAI,Enregistrement 2,1,0
+650,47,undefined,VRAI,Enregistrement 2,5,24,IEI16,Not All,lire,VRAI,Enregistrement 2,1,1
+651,47,undefined,VRAI,Enregistrement 1,1,24,AEX2,Not All,lire,VRAI,Enregistrement 2,1,0
+652,47,undefined,VRAI,Enregistrement 1,1,32,EQH1,Not All,lire,VRAI,Enregistrement 2,1,0
+653,47,undefined,VRAI,Enregistrement 1,3,12,WPX3,Not All,lire,VRAI,Enregistrement 2,1,0
+654,47,undefined,VRAI,Enregistrement 2,3,20,TAO36,Not All,lire,VRAI,Enregistrement 2,1,1
+655,47,undefined,VRAI,Enregistrement 1,3,36,BDC12,Not All,lire,VRAI,Enregistrement 2,1,0
+656,47,undefined,VRAI,Enregistrement 1,3,28,XHJ4,Not All,lire,VRAI,Enregistrement 2,1,0
+657,47,undefined,VRAI,Enregistrement 1,4,20,ZXY5,Not All,lire,VRAI,Enregistrement 2,1,0
+658,47,undefined,VRAI,Enregistrement 2,3,36,BJT30,Not All,lire,VRAI,Enregistrement 2,1,1
+659,47,undefined,VRAI,Enregistrement 2,1,16,QNS18,Not All,lire,VRAI,Enregistrement 2,1,1
+660,47,undefined,FAUX,Enregistrement 2,5,16,QCG14,Not All,lire,VRAI,Enregistrement 2,0,1
+661,47,undefined,VRAI,Enregistrement 2,4,20,CFJ15,Not All,lire,VRAI,Enregistrement 2,1,1
+662,47,undefined,VRAI,Enregistrement 1,5,16,GZM25,Not All,lire,VRAI,Enregistrement 2,1,0
+663,47,undefined,VRAI,Enregistrement 2,4,28,NLP40,Not All,lire,VRAI,Enregistrement 2,1,1
+664,48,undefined,VRAI,Enregistrement 1,3,20,BSW19,Not All,manger,VRAI,Enregistrement 2,1,0
+665,48,undefined,VRAI,Enregistrement 1,3,28,ABY16,Not All,manger,VRAI,Enregistrement 2,1,0
+666,48,undefined,VRAI,Enregistrement 1,5,12,NCR14,Not All,manger,VRAI,Enregistrement 2,1,0
+667,48,undefined,VRAI,Enregistrement 1,5,32,LVE32,Not All,manger,VRAI,Enregistrement 2,1,0
+668,48,undefined,VRAI,Enregistrement 1,3,24,BDC12,Not All,manger,VRAI,Enregistrement 2,1,0
+669,48,undefined,FAUX,Enregistrement 1,5,16,BJT30,Not All,manger,VRAI,Enregistrement 2,0,0
+670,48,undefined,VRAI,Enregistrement 2,5,20,QCG14,Not All,manger,VRAI,Enregistrement 2,1,1
+671,48,undefined,FAUX,Enregistrement 1,1,20,BIL13,Not All,manger,VRAI,Enregistrement 2,0,0
+672,48,undefined,VRAI,Enregistrement 1,2,16,UUA3,Not All,manger,VRAI,Enregistrement 2,1,0
+673,48,undefined,VRAI,Enregistrement 2,2,24,XHJ4,Not All,manger,VRAI,Enregistrement 2,1,1
+674,48,undefined,VRAI,Enregistrement 2,3,28,ZBB23,Not All,manger,VRAI,Enregistrement 2,1,1
+675,48,undefined,VRAI,Enregistrement 1,1,20,TVY31,Not All,manger,VRAI,Enregistrement 2,1,0
+676,48,undefined,FAUX,Enregistrement 1,1,36,QNS18,Not All,manger,VRAI,Enregistrement 2,0,0
+677,48,undefined,VRAI,Enregistrement 2,3,32,TAO36,Not All,manger,VRAI,Enregistrement 2,1,1
+678,48,undefined,VRAI,Enregistrement 1,3,28,WXS7,Not All,manger,VRAI,Enregistrement 2,1,0
+679,48,undefined,VRAI,undefined,2,16,CCU15,Not All,manger,VRAI,Enregistrement 2,1,0
+680,48,undefined,VRAI,Enregistrement 1,5,28,ZXY5,Not All,manger,VRAI,Enregistrement 2,1,0
+681,48,undefined,FAUX,Enregistrement 2,2,16,VBJ34,Not All,manger,VRAI,Enregistrement 2,0,1
+682,48,undefined,VRAI,Enregistrement 2,4,16,CFJ15,Not All,manger,VRAI,Enregistrement 2,1,1
+683,48,undefined,VRAI,Enregistrement 1,1,28,EQH1,Not All,manger,VRAI,Enregistrement 2,1,0
+684,48,undefined,VRAI,Enregistrement 2,4,12,NLP40,Not All,manger,VRAI,Enregistrement 2,1,1
+685,48,undefined,VRAI,Enregistrement 2,5,28,IEI16,Not All,manger,VRAI,Enregistrement 2,1,1
+686,48,undefined,VRAI,Enregistrement 1,1,16,JLR1,Not All,manger,VRAI,Enregistrement 2,1,0
+687,48,undefined,VRAI,Enregistrement 2,5,16,ZYC8,Not All,manger,VRAI,Enregistrement 2,1,1
+688,48,undefined,VRAI,Enregistrement 1,5,20,IND9,Not All,manger,VRAI,Enregistrement 2,1,0
+689,49,undefined,FAUX,Enregistrement 1,2,36,BSW19,Not all,voir,FAUX,Enregistrement 2,1,0
+690,49,undefined,FAUX,Enregistrement 1,1,28,UUA3,Not all,voir,FAUX,Enregistrement 2,1,0
+691,49,undefined,FAUX,Enregistrement 1,4,16,WXS7,Not all,voir,FAUX,Enregistrement 2,1,0
+692,49,undefined,FAUX,Enregistrement 2,4,16,ZXY5,Not all,voir,FAUX,Enregistrement 2,1,1
+693,49,undefined,FAUX,Enregistrement 2,2,28,VBJ34,Not all,voir,FAUX,Enregistrement 2,1,1
+694,49,undefined,FAUX,Enregistrement 1,2,24,JLR1,Not all,voir,FAUX,Enregistrement 2,1,0
+695,49,undefined,FAUX,undefined,1,12,CCU15,Not all,voir,FAUX,Enregistrement 2,1,0
+696,49,undefined,FAUX,Enregistrement 2,4,20,NLP40,Not all,voir,FAUX,Enregistrement 2,1,1
+697,49,undefined,FAUX,Enregistrement 1,1,12,CFJ15,Not all,voir,FAUX,Enregistrement 2,1,0
+698,49,undefined,FAUX,Enregistrement 2,3,28,TAO36,Not all,voir,FAUX,Enregistrement 2,1,1
+699,49,undefined,FAUX,Enregistrement 2,5,36,EQH1,Not all,voir,FAUX,Enregistrement 2,1,1
+700,49,undefined,FAUX,Enregistrement 1,1,24,BIL13,Not all,voir,FAUX,Enregistrement 2,1,0
+701,49,undefined,FAUX,Enregistrement 1,1,24,ZBB23,Not all,voir,FAUX,Enregistrement 2,1,0
+702,49,undefined,FAUX,Enregistrement 2,5,36,QCG14,Not all,voir,FAUX,Enregistrement 2,1,1
+703,49,undefined,FAUX,Enregistrement 2,3,32,BJT30,Not all,voir,FAUX,Enregistrement 2,1,1
+704,49,undefined,FAUX,Enregistrement 1,3,12,LVE32,Not all,voir,FAUX,Enregistrement 2,1,0
+705,49,undefined,FAUX,Enregistrement 2,2,20,XHJ4,Not all,voir,FAUX,Enregistrement 2,1,1
+706,49,undefined,FAUX,Enregistrement 1,1,16,AEX2,Not all,voir,FAUX,Enregistrement 2,1,0
+707,49,undefined,FAUX,Enregistrement 1,3,12,ABY16,Not all,voir,FAUX,Enregistrement 2,1,0
+708,49,undefined,FAUX,Enregistrement 2,3,20,BDC12,Not all,voir,FAUX,Enregistrement 2,1,1
+709,49,undefined,FAUX,Enregistrement 2,2,32,QNS18,Not all,voir,FAUX,Enregistrement 2,1,1
+710,49,undefined,FAUX,Enregistrement 2,3,24,IND9,Not all,voir,FAUX,Enregistrement 2,1,1
+711,49,undefined,FAUX,Enregistrement 2,5,32,ZYC8,Not all,voir,FAUX,Enregistrement 2,1,1
+712,49,undefined,FAUX,Enregistrement 1,3,12,LYB6,Not all,voir,FAUX,Enregistrement 2,1,0
+713,49,undefined,FAUX,Enregistrement 2,5,20,NCR14,Not all,voir,FAUX,Enregistrement 2,1,1
+714,49,undefined,VRAI,Enregistrement 2,5,32,IEI16,Not all,voir,FAUX,Enregistrement 2,0,1
+715,49,undefined,FAUX,Enregistrement 1,2,16,TVY31,Not all,voir,FAUX,Enregistrement 2,1,0
+716,5,undefined,FAUX,Enregistrement 1,3,29,ZBB23,NC,lire,FAUX,Enregistrement 1,1,1
+717,5,undefined,VRAI,Enregistrement 2,3,21,NLP40,NC,lire,FAUX,Enregistrement 1,0,0
+718,5,undefined,FAUX,Enregistrement 1,4,13,AEX2,NC,lire,FAUX,Enregistrement 1,1,1
+719,5,undefined,FAUX,Enregistrement 1,5,17,TAO36,NC,lire,FAUX,Enregistrement 1,1,1
+720,5,undefined,FAUX,Enregistrement 2,4,9,GZM25,NC,lire,FAUX,Enregistrement 1,1,0
+721,5,undefined,FAUX,Enregistrement 1,5,17,UUA3,NC,lire,FAUX,Enregistrement 1,1,1
+722,5,undefined,FAUX,Enregistrement 1,2,33,EQH1,NC,lire,FAUX,Enregistrement 1,1,1
+723,5,undefined,FAUX,Enregistrement 1,5,33,BJT30,NC,lire,FAUX,Enregistrement 1,1,1
+724,5,undefined,FAUX,Enregistrement 1,2,25,IEI16,NC,lire,FAUX,Enregistrement 1,1,1
+725,5,undefined,FAUX,Enregistrement 1,5,13,LVE32,NC,lire,FAUX,Enregistrement 1,1,1
+726,5,undefined,FAUX,Enregistrement 1,4,25,VBJ34,NC,lire,FAUX,Enregistrement 1,1,1
+727,5,undefined,VRAI,Enregistrement 1,3,13,CCU15,NC,lire,FAUX,Enregistrement 1,0,1
+728,5,undefined,FAUX,Enregistrement 1,4,29,BIL13,NC,lire,FAUX,Enregistrement 1,1,1
+729,5,undefined,FAUX,Enregistrement 1,4,17,WXS7,NC,lire,FAUX,Enregistrement 1,1,1
+730,5,undefined,FAUX,Enregistrement 2,5,21,QCG14,NC,lire,FAUX,Enregistrement 1,1,0
+731,5,undefined,FAUX,Enregistrement 2,3,17,TVY31,NC,lire,FAUX,Enregistrement 1,1,0
+732,5,undefined,FAUX,Enregistrement 2,2,13,BSW19,NC,lire,FAUX,Enregistrement 1,1,0
+733,5,undefined,FAUX,Enregistrement 1,4,33,XHJ4,NC,lire,FAUX,Enregistrement 1,1,1
+884,6,undefined,VRAI,Enregistrement 2,5,9,REA6,NC,manger,VRAI,Enregistrement 1,1,0
+885,6,undefined,VRAI,Enregistrement 1,3,29,EQH1,NC,manger,VRAI,Enregistrement 1,1,1
+886,6,undefined,VRAI,Enregistrement 2,4,17,BIL13,NC,manger,VRAI,Enregistrement 1,1,0
+887,6,undefined,VRAI,Enregistrement 1,1,33,ZBB23,NC,manger,VRAI,Enregistrement 1,1,1
+888,6,undefined,VRAI,Enregistrement 2,5,9,VBJ34,NC,manger,VRAI,Enregistrement 1,1,0
+889,6,undefined,VRAI,Enregistrement 2,5,21,TVY31,NC,manger,VRAI,Enregistrement 1,1,0
+890,6,undefined,VRAI,Enregistrement 1,2,17,XHJ4,NC,manger,VRAI,Enregistrement 1,1,1
+891,6,undefined,VRAI,Enregistrement 2,5,21,OLT28,NC,manger,VRAI,Enregistrement 1,1,0
+892,6,undefined,VRAI,Enregistrement 2,4,13,WXS7,NC,manger,VRAI,Enregistrement 1,1,0
+893,6,undefined,VRAI,Enregistrement 1,1,13,UUA3,NC,manger,VRAI,Enregistrement 1,1,1
+894,6,undefined,VRAI,Enregistrement 2,5,21,BJT30,NC,manger,VRAI,Enregistrement 1,1,0
+895,6,undefined,VRAI,Enregistrement 2,5,9,NCP30,NC,manger,VRAI,Enregistrement 1,1,0
+896,6,undefined,FAUX,Enregistrement 2,4,33,NLP40,NC,manger,VRAI,Enregistrement 1,0,0
+897,6,undefined,VRAI,Enregistrement 2,5,9,IEI16,NC,manger,VRAI,Enregistrement 1,1,0
+898,6,undefined,VRAI,Enregistrement 2,5,25,LVE32,NC,manger,VRAI,Enregistrement 1,1,0
+899,6,undefined,VRAI,Enregistrement 1,5,13,QCG14,NC,manger,VRAI,Enregistrement 1,1,1
+900,6,undefined,VRAI,Enregistrement 2,2,25,BSW19,NC,manger,VRAI,Enregistrement 1,1,0
+901,6,undefined,VRAI,Enregistrement 2,3,9,WZJ26,NC,manger,VRAI,Enregistrement 1,1,0
+902,6,undefined,VRAI,Enregistrement 1,1,21,AEX2,NC,manger,VRAI,Enregistrement 1,1,1
+903,6,undefined,VRAI,Enregistrement 2,5,33,TAO36,NC,manger,VRAI,Enregistrement 1,1,0
+904,6,undefined,VRAI,Enregistrement 1,4,9,OJD8,NC,manger,VRAI,Enregistrement 1,1,1
+905,6,undefined,VRAI,Enregistrement 2,4,21,CCU15,NC,manger,VRAI,Enregistrement 1,1,0
+949,7,undefined,FAUX,Enregistrement 1,4,13,TVY31,NC,voir,FAUX,Enregistrement 1,1,1
+950,7,undefined,VRAI,Enregistrement 1,5,25,BJT30,NC,voir,FAUX,Enregistrement 1,0,1
+951,7,undefined,VRAI,Enregistrement 1,4,21,UUA3,NC,voir,FAUX,Enregistrement 1,0,1
+952,7,undefined,FAUX,Enregistrement 2,3,17,ZBB23,NC,voir,FAUX,Enregistrement 1,1,0
+953,7,undefined,VRAI,Enregistrement 2,5,29,IEI16,NC,voir,FAUX,Enregistrement 1,0,0
+954,7,undefined,FAUX,Enregistrement 2,5,33,CCU15,NC,voir,FAUX,Enregistrement 1,1,0
+955,7,undefined,FAUX,Enregistrement 2,5,25,QCG14,NC,voir,FAUX,Enregistrement 1,1,0
+956,7,undefined,FAUX,Enregistrement 2,5,13,OLT28,NC,voir,FAUX,Enregistrement 1,1,0
+957,7,undefined,FAUX,Enregistrement 2,4,9,WXS7,NC,voir,FAUX,Enregistrement 1,1,0
+958,7,undefined,FAUX,Enregistrement 1,4,21,LVE32,NC,voir,FAUX,Enregistrement 1,1,1
+959,7,undefined,FAUX,Enregistrement 1,4,9,EQH1,NC,voir,FAUX,Enregistrement 1,1,1
+960,7,undefined,FAUX,Enregistrement 1,3,25,XHJ4,NC,voir,FAUX,Enregistrement 1,1,1
+961,7,undefined,FAUX,Enregistrement 2,3,13,IED39,NC,voir,FAUX,Enregistrement 1,1,0
+962,7,undefined,FAUX,Enregistrement 1,4,33,VBJ34,NC,voir,FAUX,Enregistrement 1,1,1
+963,7,undefined,FAUX,Enregistrement 2,5,9,TAO36,NC,voir,FAUX,Enregistrement 1,1,0
+964,7,undefined,FAUX,Enregistrement 2,2,25,BIL13,NC,voir,FAUX,Enregistrement 1,1,0
+965,7,undefined,FAUX,Enregistrement 2,4,29,BSW19,NC,voir,FAUX,Enregistrement 1,1,0
+966,7,undefined,FAUX,Enregistrement 1,4,9,NLP40,NC,voir,FAUX,Enregistrement 1,1,1
+967,7,undefined,FAUX,Enregistrement 1,3,13,GZM25,NC,voir,FAUX,Enregistrement 1,1,1
+968,8,undefined,FAUX,Enregistrement 1,5,17,NCR14,NC,aimer,FAUX,Enregistrement 1,1,1
+969,8,undefined,FAUX,Enregistrement 1,5,17,IND9,NC,aimer,FAUX,Enregistrement 1,1,1
+970,8,undefined,FAUX,Enregistrement 2,4,13,ZXY5,NC,aimer,FAUX,Enregistrement 1,1,0
+971,8,undefined,FAUX,Enregistrement 1,4,25,QNS18,NC,aimer,FAUX,Enregistrement 1,1,1
+972,8,undefined,VRAI,Enregistrement 2,3,33,ABY16,NC,aimer,FAUX,Enregistrement 1,0,0
+973,8,undefined,FAUX,Enregistrement 1,5,25,ZYC8,NC,aimer,FAUX,Enregistrement 1,1,1
+974,8,undefined,VRAI,Enregistrement 1,5,25,BDC12,NC,aimer,FAUX,Enregistrement 1,0,1
+975,8,undefined,FAUX,Enregistrement 1,2,25,JLR1,NC,aimer,FAUX,Enregistrement 1,1,1
+976,8,undefined,FAUX,Enregistrement 2,1,17,WPX3,NC,aimer,FAUX,Enregistrement 1,1,0
+977,8,undefined,VRAI,Enregistrement 1,5,29,CFJ15,NC,aimer,FAUX,Enregistrement 1,0,1
+978,9,undefined,VRAI,Enregistrement 1,3,9,ABY16,NC,boire,VRAI,Enregistrement 1,1,1
+979,9,undefined,VRAI,Enregistrement 2,4,9,ZXY5,NC,boire,VRAI,Enregistrement 1,1,0
+980,9,undefined,FAUX,Enregistrement 1,4,17,BDC12,NC,boire,VRAI,Enregistrement 1,0,1
+981,9,undefined,VRAI,Enregistrement 1,4,33,IND9,NC,boire,VRAI,Enregistrement 1,1,1
+982,9,undefined,VRAI,Enregistrement 1,1,13,QNS18,NC,boire,VRAI,Enregistrement 1,1,1
+983,9,undefined,VRAI,Enregistrement 2,1,17,JLR1,NC,boire,VRAI,Enregistrement 1,1,0
+984,9,undefined,VRAI,Enregistrement 1,4,13,CFJ15,NC,boire,VRAI,Enregistrement 1,1,1
+985,9,undefined,VRAI,Enregistrement 1,5,21,NCR14,NC,boire,VRAI,Enregistrement 1,1,1
+986,9,undefined,VRAI,Enregistrement 1,5,9,ZYC8,NC,boire,VRAI,Enregistrement 1,1,1

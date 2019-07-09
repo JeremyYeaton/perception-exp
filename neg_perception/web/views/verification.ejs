@@ -1,0 +1,13 @@
+<div style="text-align: center; line-height:130%;">
+	<p>
+	<%= this["context"] %>
+	<br>
+	<%= this["target"] %>
+</div>
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">
+  Est-ce que la phrase est VRAI ou FAUX?
+  <p>
+  <%= this["verification"] %>
+  <%= makeScale({buttons: ["VRAI", "FAUX"], edgelabels: ["", ""], disable: true  }) %>
+</div>

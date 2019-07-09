@@ -1,0 +1,99 @@
+
+<div class="trialpartWrapper" style="text-align: left; line-height:130%;">
+		<h3> Lisez le contexte et la phrase: </h3>
+	<p>
+	<%= this["context"] %>
+</p>
+	<p>
+	<%= this["target"] %>
+</p>
+	<p>
+	<%= continueButton() %>
+</div>
+
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+<!--  <h4> 1. Est-ce que la phrase suivante est VRAIE ou FAUSSE? </h4>
+-->
+  <p>
+  <%= this["verification"] %>
+  <%= makeScale({buttons: ["VRAI", "FAUX"], edgelabels: ["", ""], disable: true, hide: true  }) %>
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+	<h4>
+	 Écoutez les enregistrements et choisissez le plus adapté au contexte:
+	<%= continueButton() %>
+</div>
+
+<div class="trialpartWrapper" style="float:left; height: 3em; width: 40%;">
+	<h5> 1
+	<%= makeSoundButton({soundFile: audio1}) %>
+</div>
+
+<div class="trialpartWrapper" style="float:right; height: 3em; width: 40%;">
+	<h5> 2
+	<%= makeSoundButton({soundFile: audio2}) %>
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+	<p>
+	<%= makeScale({buttons: ["Enregistrement 1","Enregistrement 2",], edgelabels: ["", ""], disable: true, hide: true }) %>
+</div>
+
+
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+	<h4> Évaluez votre confiance:</h4>
+	<p>
+	<%= makeScale({buttons: ["1","2","3","4","5"], edgelabels: ["Pas confiant du tout", "Très confiant"], disable: true  }) %>
+</div>
+
+<!--
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+	<h4> 3. Évaluez votre confiance:</h4>
+	<p>
+	<%= makeScale({buttons: ["1","2","3","4","5"], edgelabels: ["Pas confiant du tout", "Très confiant"], disable: true  }) %>
+</div>
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">
+	Press one of these two buttons.   We'll tell you which one was right as soon as it's too late to change your mind.
+	<p>
+	<%= makeScale({buttons: ["YMMV", "YOLO"], edgelabels: ["", ""], disable: true, rightAnswer: "YOLO", feedbackID: "#feedback", feedbackWrong: "No, you were supposed to press RIGHTANSWER.",  feedbackRight: "Great! RIGHTANSWER is the right answer."  }) %>
+	<div id="feedback" style="padding:30px;"></div>
+
+</div>
+
+<div class="trialpartWrapper" style="clear:both; text-align: left;">
+	Please make this question disappear by pressing one of the bottons below.
+	<p>
+	<%= makeScale({buttons: ["Le Premier", "La seconde"], edgelabels: ["", ""], disable: true, hide: true }) %>
+</div>
+
+<div class="trialpartWrapper" style="clear:both; text-align: center;">
+	Ready for the next item?
+	<p>
+	<%= makeScale({buttons: ["sure", "totes"], edgelabels: ["", ""], disable: true  }) %>
+</div>
+
+-->
+<div style="clear: both; height: 1px;">&nbsp;</div>
+<!--
+	<div class="trialpartWrapper" style="padding-top:0; margin-top:0;">
+		<small>Enter the word you just heard:</small><br>
+		<%=  makeTextInput({style: "width: 6em; font-size: 1em;", allowempty: false, feedbackID: "#feedback", exactMatch: , feedback_ifright: "That&#145;s exactly right!", feedback_ifwrong: "Not exactly... The Martian spelling of this word is <b>RIGHTANSWER</b>." })  %>
+		<%= continueButton() %>
+		<div id="feedback" style="font-size: 12pt; margin-top: 6px;"></div>
+	</div>
+	<% } %>
+
+	<div class="trialpartWrapper"><%= continueButton() %></div>
+
+	<div style="border: none;">
+		<img src="resources/pictures/<%= picture.pic2 %>" width="100"  style="padding:10px;"><img src="resources/pictures/<%= picture.pic2 %>" width="100" style="padding:10px;"><br>
+		<img src="resources/pictures/<%= picture.pic2 %>" width="100"  style="padding:10px;"><img src="resources/pictures/<%= picture.pic2 %>" width="100" style="padding:10px;">
+	</div>
+</div>
+
+<div style="clear: both; height: 1px;">&nbsp;</div>
+-->

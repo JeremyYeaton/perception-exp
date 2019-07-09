@@ -1,0 +1,13 @@
+condition,var,val
+NC,c1,152
+DN,c1,115
+Not All,c1,156
+All not,c1,140
+NC,c2,94
+DN,c2,98
+Not All,c2,83
+All not,c2,75
+NC,confidence,133.6
+DN,confidence,122
+Not All,confidence,107
+All not,confidence,110.4

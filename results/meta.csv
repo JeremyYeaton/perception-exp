@@ -1,0 +1,45 @@
+"","IP","X_","birthplace","currentlocation","destination","email","experimentName","growingUp","sex","sugg","time","userCode","userFileName"
+"1","45.33.133.89",1523295090438,"Dijon bourgogne","Chalon sur saone bourgogne","demographics.csv","alexandra9ma@hotmail.com","pilot","Dijon bourgogne","female","",NA,"UUA3",3
+"2","45.33.133.89",1523295133078,"Dijon","Chalon sur saone bourgogne","demographics.csv","alexandra9ma@hotmail.com","pilot","Dijon bourgogne","female","",NA,"UUA3",3
+"3","194.254.61.42",1523294654180,"Paris","Paris","demographics.csv","lenaa","pilot","Paris","female","",NA,"XHJ4",4
+"4","194.254.61.46",1523294677145,"Paris","paris","demographics.csv","lenaa.dee@gmail.com","pilot","Paris","female","",NA,"XHJ4",4
+"5","109.8.209.124",1523300357109,"Bretagne","Bretagne","demographics.csv","","pilot","Bretagne","female","",NA,"WXS7",7
+"6","109.8.209.124",1523300398502,"Morlaix/bretagne","Rennes/Bretagne","demographics.csv","","pilot","Morlaix/Bretagne","female","",NA,"WXS7",7
+"7","90.3.1.124",1523358030302,"normandie","seine et marne","demographics.csv","diaslewan@hotmail.com","pilot","normandie","female","",NA,"QCG14",14
+"8","90.3.1.124",1523358072460,"normandie","77700 - BAILLY ROMAINVILLIERS","demographics.csv","diaslewan@hotmail.com","pilot","normandie","female","",NA,"QCG14",14
+"9","90.105.76.20",1523373758335,"boulogne billancourt","bretagne","demographics.csv","yves.grossemy@gmail.com","pilot","chaville","male","",NA,"CCU15",15
+"10","83.199.203.208",1523384708842,"PARIS","PARIS","demographics.csv","patriciaboileau-millet@orange.fr","pilot","NIEVRE","female","",NA,"IEI16",16
+"11","83.199.203.208",1523384716400,"","","demographics.csv","","pilot","","none","",NA,"IEI16",16
+"12","93.26.171.0",1524041152869,"Ile de France","Ile de France","demographics.csv","","pilot","Ile de France","male","",NA,"BSW19",19
+"13","93.26.171.0",1524041199882,"Clichy","Clichy","demographics.csv","","pilot","Cormeilles en Parisis","male","",NA,"BSW19",19
+"14","46.193.0.165",1524507854642,"Saint-Saulve Nord","Trith-Saint-Leger Nord","demographics.csv","","pilot","Trith-Saint-Leger Nord","male","Petite erreur de typo (Typiquement le point 5 apparait en proposition pour le sexe)",NA,"ZBB23",23
+"15","46.193.0.165",1524507856825,"","","demographics.csv","","pilot","","none","",NA,"ZBB23",23
+"16","85.171.202.215",1525726163058,"Paris","Paris","demographics.csv","unpasalafoismesuffit@outlook.fr","pilot","Paris","male","",NA,"BJT30",30
+"17","85.171.202.215",1525726182397,"Paris","Paris","demographics.csv","unpasalafoismesuffit@outlook.fr","pilot","Paris","male","None",NA,"BJT30",30
+"18","81.57.234.14",1529766582927,"Paris","Paris","demographics.csv","","pilot","Paris","male","Certains enregistrements sont vraiment trop proches pour pouvoir choisir entre les deux. Pas facile.",NA,"TVY31",31
+"19","90.92.154.173",1529772180906,"Paris","Paris","demographics.csv","","pilot","Nantes","female","C'est normal que certains enregistrements ne disaient pas exactement la même chose ?  Bon courage !  Audrey",NA,"LVE32",32
+"20","90.92.154.173",1529772200555,"Paris","Paris","demographics.csv","","pilot","Nantes","female","",NA,"LVE32",32
+"21","78.194.68.13",1529934710578,"Limoges","Paris","demographics.csv","","pilot","Limoges","male","",NA,"VBJ34",34
+"22","78.194.68.13",1529934721496,"Limoges","Paris","demographics.csv","","pilot","Limoges","male","",NA,"VBJ34",34
+"23","90.91.208.28",1529941199328,"Je suis née à Paris. ","J'habite en région parisienne. ","demographics.csv","Flesselles.Nathalie@wanadoo.fr","pilot","J'ai été élevée à Toulon. ","female","",NA,"TAO36",36
+"24","90.91.208.28",1529941212292,"","","demographics.csv","","pilot","","none","",NA,"TAO36",36
+"25","77.147.226.190",1529945772434,"Paris (XIV°)","Mont de Marsan","demographics.csv","e.anziani@orange.fr","pilot","Bordeaux","male","",NA,"NLP40",40
+"26","77.147.226.190",1529945807457,"Paris (XIV°)","Mont de Marsan","demographics.csv","e.anziani@orange.fr","pilot","Bordeaux","male","",NA,"NLP40",40
+"27","176.187.80.114",1523037971021,"Rhone Alpes / Savoie","Paris","demographics.csv","","pilot","Rhone Alpes / Savoie","female","",NA,"JLR1",1
+"28","176.187.80.114",1523037974052,"","","demographics.csv","","pilot","","none","",NA,"JLR1",1
+"29","2.7.76.252",1524044232270,"Saint-Etienne","GRENOBLE","demographics.csv","msoulier2@orange.fr","pilot","Saint-Etienne (42)","female","",NA,"ZXY5",5
+"30","2.7.76.252",1524044296230,"Saint-Etienne","GRENOBLE","demographics.csv","msoulier2@orange.fr","pilot","Saint-Etienne","female","",NA,"ZXY5",5
+"31","90.3.1.124",1524050687014,"normandy","BAILLY ROMAINVILLIERS","demographics.csv","diaslewan@hotmail.com","pilot","normandy","female","",NA,"ZYC8",8
+"32","90.3.1.124",1524050712130,"normandie","BAILLY ROMAINVILLIERS","demographics.csv","diaslewan@hotmail.com","pilot","normandie","female","rien",NA,"ZYC8",8
+"33","90.44.80.17",1524057594965,"Paris","Essonne villiers-sur-Orge","demographics.csv","","pilot","Val de Marne Saint-Maur des Fossés","male","",NA,"IND9",9
+"34","90.44.80.17",1524057605488,"","","demographics.csv","","pilot","","none","",NA,"IND9",9
+"35","78.245.100.165",1524068480796,"saumur","ORLEANS","demographics.csv","portable12@free.fr","pilot","ORLEANS","male","je suis né a saumur et j'ai habité a 12km a monsterau jusqu'a l'age de 12 ans ensuite orleans",NA,"BDC12",12
+"36","78.245.100.165",1524068514561,"ORLEANS","ORLEANS","demographics.csv","portable12@free.fr","pilot","ORLEANS","male","",NA,"BDC12",12
+"37","82.238.108.114",1524160352790,"BELFORT","MONTBELIARD","demographics.csv","f.albersammer@free.fr","pilot","BELFORT","male","",NA,"NCR14",14
+"38","82.238.108.114",1524160405150,"BELFORT","MONTBELIARD","demographics.csv","f.albersammer@free.fr","pilot","BELFORT","male","exercice difficile",NA,"NCR14",14
+"39","90.91.100.176",1524170025769,"Ile d france","Ile de france","demographics.csv","philoxene.karine@gmail.com","pilot","Ile de france‚ Charente maritime","female","",NA,"CFJ15",15
+"40","88.167.249.240",1524425549140,"Melun","essonne","demographics.csv","soline007@free.fr","pilot","chartres","female","dans les enregistrements‚ certains étaient complètement identiques‚ mêmes mots et mêmes intonations.",NA,"ABY16",16
+"41","93.24.42.234",1524935551012,"Arpajon / Ile-de-France","Marolles-en-Hurepoix / Ile-de-France","demographics.csv","","pilot","Marolles-en-Hurepoix / Ile-de-France","female","",NA,"QNS18",18
+"42","93.24.42.234",1524935557113,"","","demographics.csv","","pilot","","none","",NA,"QNS18",18
+"43","45.33.143.91",1530041336453,"Dijon","Chalon sur saone bourgogne","demographics.csv","","pilot","Dijon bourgogne","female","",NA,"FNI20",20
+"44","45.33.143.91",1530041379269,"Dijon","Chalon sur saone bourgogne","demographics.csv","Alexandra9ma@hotmail.com","pilot","Dijon bourgogne","female",".",NA,"FNI20",20
