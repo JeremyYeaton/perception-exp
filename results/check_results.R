@@ -36,6 +36,7 @@ df.all <- merge(data,stim,'Item') %>%
          interp = replace(interp, which(interp == F),0),
          recording = replace(recording, which(recording == T),1),
          recording = replace(recording, which(recording == F),0)) %>%
+  # filter(verb != 'faire' & verb != 'dire') %>%
   na.omit() %>%
   select(Item, userCode, cond, verb, interp, recording, bothRight, bothWrong, match, confidence)
 
@@ -55,13 +56,21 @@ correctInt.summ <- df.all %>%
   summarise(sumCorrect = mean(interp),
             sem = sd(interp)/sqrt(length(df.all$interp)))
 
+# correctInt.barsum <- df.all %>%
+#   filter(verb != 'faire' & verb != 'dire') %>%
+#   # filter(cond == 'NC' | cond == 'DN') %>%
+#   # filter(interp == 1) %>%
+#   group_by(cond2) %>%
+#   summarise(sumCorrect = mean(interp),
+#             sem = sd(interp)/sqrt(length(df.all$interp)))
+
 correctInt.barsum <- df.all %>%
   filter(verb != 'faire' & verb != 'dire') %>%
   # filter(cond == 'NC' | cond == 'DN') %>%
   # filter(interp == 1) %>%
-  group_by(cond2) %>%
-  summarise(sumCorrect = mean(interp),
-            sem = sd(interp)/sqrt(length(df.all$interp)))
+   group_by(cond2) #%>%
+  # summarise(sumCorrect = mean(interp),
+  #           sem = sd(interp)/sqrt(length(df.all$interp)))
 
 correctRec.summ <- df.all %>%
   # filter(verb != 'faire' & verb != 'dire') %>%
@@ -142,8 +151,8 @@ dprimeMatch.summ <- match.df %>%
 wilcox.test(x = df.all$interp[df.all$cond == 'DN'],
             y = df.all$interp[df.all$cond == 'NC'])
 interp.cm <- df.all %>%
-  filter(cond == 'DN' | cond == 'NC') %>%
-  compare_means(interp ~ cond,data = .)
+  # filter(cond == 'DN' | cond == 'NC') %>%
+  compare_means(interp ~ cond2,data = .)
 
 # Difference in means of selecting DN and NC recording among correct interpretation
 wilcox.test(x = corrInt.df$recording[corrInt.df$cond == 'NC'],
@@ -154,6 +163,14 @@ rec.cm <- corrInt.df %>%
 # Difference between NC and DN context-matched recording selection
 wilcox.test(x = as.numeric(match.df$match[match.df$newCond == 'DN']), 
        y = as.numeric(match.df$match[match.df$newCond == 'NC']))
+
+# Difference between DN rec & matched
+wilcox.test(x = as.numeric(match.df$match[match.df$newCond == 'DN']), 
+            y = corrInt.df$recording[corrInt.df$cond == 'DN'])
+
+# Difference between NC rec & matched
+wilcox.test(x = corrInt.df$recording[corrInt.df$cond == 'NC'], 
+            y = as.numeric(match.df$match[match.df$newCond == 'NC']))
 
 ## One proportion z-test ####
 samp = df.all$interp[df.all$cond == 'DN'] # yes
@@ -198,15 +215,30 @@ binom.test(x = sum(samp),
            n = length(samp),
            p = 0.5, alternative = "two.sided")
 
-# Mean a-prime
-samp = dprime.summ$aPrime
-binom.test(x = samp,
-           n = length(samp),
-           p = 0.5, alternative = "two.sided")
-samp = dprimeMatch.summ$aPrime
-binom.test(x = sum(samp),
-           n = length(samp),
-           p = 0.5, alternative = "two.sided")
+# Number of items in interp data
+sum(df.all$cond2 == 'DN')
+sum(df.all$cond2 == 'NC')
+sum(df.all$cond2 == 'Filler')
+
+# Number of items in original data
+sum(corrInt.df$cond2 == 'DN')
+sum(corrInt.df$cond2 == 'NC')
+
+# Number of items in re-coded data
+sum(match.df$cond2 == 'DN' & match.df$newCond == 'DN')
+sum(match.df$cond2 == 'NC' & match.df$newCond == 'NC')
+sum(match.df$cond2 == 'DN' & match.df$newCond == 'NC')
+sum(match.df$cond2 == 'NC' & match.df$newCond == 'DN')
+
+# # Mean a-prime
+# samp = dprime.summ$aPrime
+# binom.test(x = samp,
+#            n = length(samp),
+#            p = 0.5, alternative = "two.sided")
+# samp = dprimeMatch.summ$aPrime
+# binom.test(x = sum(samp),
+#            n = length(samp),
+#            p = 0.5, alternative = "two.sided")
 
 
 conf.summ <- match.df %>%
@@ -224,3 +256,4 @@ dprime.sort <- dprime.summ[order(dprime.summ$aPrime),]
 ggplot(data = dprime.sort) + 
   geom_point(aes(x = 1:length(dprime.sort$aPrime), y = aPrime)) +
   coord_cartesian(ylim = c(0,1))
+

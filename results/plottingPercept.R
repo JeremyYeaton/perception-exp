@@ -39,23 +39,40 @@ correctInterp.plot <- ggplot(correctInt.summ,aes(x = cond2, y = sumCorrect,
 correctInterp.plot
 ggsave(plot=correctInterp.plot,'figures/correctInterp.pdf',width=plot.w/2,height=plot.h,units="cm")
 
-correctRec.plot <- ggplot(correctRec.summ,aes(x = cond, y = sumCorrect, 
-                                              fill = cond,ymin=sumCorrect-sem,ymax=sumCorrect+sem)) +
-  # geom_bar(stat='identity',position=position_dodge()) +
-  # geom_errorbar(position =position_dodge(width=.9),width=0.25) +
-  geom_boxplot(position=position_dodge()) +
-  # stat_compare_means(comparisons = my_comparisons,method = 'wilcox.test') +
-  coord_cartesian(ylim=yLimits) +
-  labs(x='Condition',y='Proportion correct') +
-  theme(legend.position = 'none') +
-  scale_fill_manual(values = c(nc_color,dn_color))
-  # stat_pvalue_manual(
-  #   rec.cm, x = 'group1', y.position = 33,
-  #   label = "p.signif",
-  #   position = position_dodge(0.8)
-  # )
+# correctRec.barplot <- ggplot(correctRec.barsum,aes(x = cond, y = sumCorrect, 
+#                                               fill = cond,ymin=sumCorrect-sem,ymax=sumCorrect+sem)) +
+#   geom_bar(stat='identity',position=position_dodge()) +
+#   geom_errorbar(position =position_dodge(width=.9),width=0.25) +
+#   # geom_boxplot(position=position_dodge()) +
+#   # stat_compare_means(comparisons = my_comparisons,method = 'wilcox.test') +
+#   coord_cartesian(ylim=yLimits) +
+#   labs(x='Condition',y='Proportion correct') +
+#   theme(legend.position = 'none') +
+#   scale_fill_manual(values = c(nc_color,dn_color))
+#   # stat_pvalue_manual(
+#   #   rec.cm, x = 'group1', y.position = 33,
+#   #   label = "p.signif",
+#   #   position = position_dodge(0.8)
+#   # )
+# correctRec.barplot
+# ggsave(plot=correctRec.barplot,'figures/correctRec.pdf',width=plot.w/2,height=plot.h,units="cm")
 
-correctRec.plot <- ggplot(corrInt.df,aes(x = cond, y = recording,fill = cond)) +
+
+ggbarplot(correctInt.barsum, x = 'cond2', y = 'interp', add = "mean_se", fill = 'cond2') +
+  stat_compare_means()
+
+
+
+ggplot(data = df.all,aes(x = cond2, y = interp, fill = cond2)) +
+  geom_bar(stat = "summary", fun.y = "mean") +
+  # geom_errorbar(position = position_dodge(width=.9), width=0.25, 
+  # stat = "summary", fun.y = sd("interp")/sqrt(length(df.all$interp)))
+  stat_compare_means(comparisons = my_comparisons,label = 'p.signif',
+                     method='wilcox.test', hide.ns = T)
+
+
+
+correctRec.plot <- ggplot(correctRec.summ,aes(x = cond, y = sumCorrect,fill = cond)) +
   geom_boxplot(position=position_dodge()) +
   # stat_compare_means(comparisons = my_comparisons,method = 'wilcox.test') +
   # coord_cartesian(ylim=yLimits) +
@@ -125,9 +142,27 @@ aprime.plot
 ggsave(plot=aprime.plot,'figures/aprime.pdf',width=plot.w/2,height=plot.h,units="cm")
 
 ## BAR PLOTS ####
+my_comparisons <- list(c('NC','DN'))
+
+correctInterp.barplot <- ggplot(correctInt.barsum,aes(x = cond2, y = interp, 
+                                                      fill = cond2))+
+  geom_bar(stat = 'summary', position=position_dodge(),fun.data = 'mean_se') +
+  geom_errorbar(position =position_dodge(width=.9),width=0.25,stat = 'summary',fun.data = 'mean_se') +
+  coord_cartesian(ylim=yLimits) +
+  labs(x='Condition',y='Proportion correct') +
+  theme(legend.position = 'none') +
+  scale_fill_manual(values = c(nc_color,dn_color,allColors[3])) +
+  stat_compare_means(label = 'p.signif',comparisons = my_comparisons,method = 'wilcox.test',
+                     label.y = .92,hide.ns = TRUE) +
+  annotate('text',x=1.5,y=0.94,label= '**')
+correctInterp.barplot
+ggsave(plot=correctInterp.barplot,'figures/correctInterpBar.pdf',width=plot.w/3,height=plot.h,units="cm")
+
+compare_means(interp ~ cond2, data = correctInt.barsum, method = "wilcox.test")
+
 correctInterp.barplot <- ggplot(correctInt.barsum,aes(x = cond2, y = sumCorrect, 
-                                                 ymin=sumCorrect-sem,
-                                                 ymax=sumCorrect+sem, fill = cond2)) +
+                                                      ymin=sumCorrect-sem,
+                                                      ymax=sumCorrect+sem, fill = cond2)) +
   geom_bar(stat='identity',position=position_dodge()) +
   geom_errorbar(position =position_dodge(width=.9),width=0.25) +
   coord_cartesian(ylim=yLimits) +
@@ -144,11 +179,15 @@ correctRec.barplot <- ggplot(correctRec.barsum,aes(x = cond, y = sumCorrect,
   coord_cartesian(ylim=yLimits) +
   labs(x='Condition',y='Proportion correct') +
   theme(legend.position = 'none',axis.title.y=element_blank()) +
-  scale_fill_manual(values = c(nc_color,dn_color))
+  scale_fill_manual(values = c(nc_color,dn_color)) +
+  annotate('text',x='NC',y=0.6,label= 'NS.') +
+  annotate('text',x='DN',y=0.68,label= '**') +
+  stat_compare_means(label='p.signif',method = 'wilcox.test',label.y = .72,
+                     comparisons = my_comparisons)
 correctRec.barplot
 ggsave(plot=correctRec.barplot,'figures/correctRecBar.pdf',width=plot.w/3,height=plot.h,units="cm")
 
-
+my_comparisons = list(c('NC','DN'))
 matchRec.barplot <- ggplot(match.barsum, aes(x = newCond, y = meanMatch, fill = newCond,
                                         ymin = meanMatch - sem, ymax = meanMatch + sem))+
   geom_bar(stat='identity',position=position_dodge()) +
@@ -156,6 +195,12 @@ matchRec.barplot <- ggplot(match.barsum, aes(x = newCond, y = meanMatch, fill = 
   coord_cartesian(ylim=yLimits) +
   labs(x='Condition',y='Proportion correct') +
   scale_fill_manual(values = c(nc_color,dn_color)) +
-  theme(legend.position = 'none',axis.title.y=element_blank())
+  theme(legend.position = 'none',axis.title.y=element_blank()) +
+  annotate('text',x='NC',y=0.61,label= 'NS.') +
+  annotate('text',x='DN',y=0.65,label= '*') +
+  stat_compare_means(label='p.signif',method = 'wilcox.test',label.y = .7,
+                     comparisons = my_comparisons)
 matchRec.barplot
 ggsave(plot=matchRec.barplot,'figures/matchRecBar.pdf',width=plot.w/3,height=plot.h,units="cm")
+
+
